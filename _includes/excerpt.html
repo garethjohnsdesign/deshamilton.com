@@ -1,0 +1,21 @@
+<div class="cell padding-1">
+  <div class="excerpt">
+    <a href="{{ project.url }}">
+      
+      <div class="grid-x align-center-middle excerpt__title">
+        <div class="small-12 cell text-center text-uppercase">
+          <h2 class="margin-bottom-0">{{ project.title }}</h2>
+          {% if project.client %}
+          <h2 class="margin-bottom-0">{{ project.client }}</h2>
+          {% endif %}
+        </div>
+      </div>
+      
+      <div class="excerpt__image">
+        {% assign image = project.image %}
+        {% include images/excerpt.html %}
+      </div>
+    
+    </a>
+  </div>
+</div>

@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body>
+  
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas.html %}
+</div>
+<!-- End Off Canvas Navigation --> 
+
+<div class="grid-y off-canvas-content {{page.layout | slugify}}" data-off-canvas-content style="height: 100vh">
+
+  <div class="shrink cell">
+    <!-- Navigation -->
+      {% include navigation.html %}
+    <!-- End Navigation -->
+  </div>
+  
+  <div class="auto cell">
+    <div class="grid-x padding-bottom-1 align-center-middle text-center" style="min-height: 100%;">
+      <div class="small-12 cell">
+        <!-- Content -->
+        {{content}}
+        <!-- End Content -->
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+<!-- Google Analytics -->
+{% if site.analytics %}
+{% include analytics.html %}
+{% endif %}
+<!-- End Google Analytics -->
+</body>
+
+</html>

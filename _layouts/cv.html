@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+<!-- Narrative -->
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell text-center">
+  <h4>Narrative</h4>
+  </div> 
+</div>
+    
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell">
+  
+    <div class="grid-x grid-padding-x show-for-medium cv__title">
+      <div class="small-12 medium-3 large-3 cell">
+      Title
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      Director(s)
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      Production
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      Equipment
+      </div>
+    </div>
+    
+    {% assign narrative = site.narrative | sort: 'date' | reverse %}
+    {% for item in narrative %}
+    <div class="grid-x grid-padding-x cv__item">
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.title}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      {{item.director}}
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.production-company}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      {{item.equipment}}
+      </div>
+    </div>
+    {% endfor %}
+   
+   </div> 
+</div>
+<!-- End Narrative -->
+
+<!-- Commercials -->
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell text-center">
+  <h4>Commercials</h4>
+   </div> 
+</div>
+    
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell">
+  
+    <div class="grid-x grid-padding-x show-for-medium cv__title">
+      <div class="small-12 medium-3 large-3 cell">
+      Title
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      Director(s)
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      Production
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      Equipment
+      </div>
+    </div>
+    
+    {% assign commercial = site.commercial | sort: 'date' | reverse %}
+    {% for item in commercial %}
+    <div class="grid-x grid-padding-x cv__item">
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.title}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      {{item.director}}
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.production-company}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      {{item.equipment}}
+      </div>
+    </div>
+    {% endfor %}
+   
+   </div> 
+</div>
+<!-- End Commercials -->
+
+<!-- Music Videos -->
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell text-center">
+  <h4>Music Videos</h4>
+   </div> 
+</div>
+    
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell">
+  
+    <div class="grid-x grid-padding-x show-for-medium cv__title">
+      <div class="small-12 medium-3 large-3 cell">
+      Title
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      Director(s)
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      Production
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      Equipment
+      </div>
+    </div>
+    
+    {% assign music-videos = site.music-videos | sort: 'date' | reverse %}
+    {% for item in music-videos %}
+    <div class="grid-x grid-padding-x cv__item">
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.title}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell">
+      {{item.director}}
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.production-company}}
+      </div>
+      <div class="small-12 medium-4 large-3 cell show-for-large">
+      {{item.equipment}}
+      </div>
+    </div>
+    {% endfor %}
+   
+   </div> 
+</div>
+<!-- End Music Videos -->

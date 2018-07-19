@@ -1,0 +1,72 @@
+---
+title: Des Hamilton Casting
+timezone: UTC
+collections:
+  commercials:
+    title: Commercials
+    output: true
+  films:
+    title: Films
+    output: true
+  television:
+    title: Television
+    output: true
+  music-videos:
+    title: Music Videos
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.deshamilton.com
+description: Television, Film, Commerical and Music Video Casting
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: Des Hamilton Casting
+email: info@deshamilton.com
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%d %B %Y"
+future: true
+social:
+  twitter: https://twitter.com/DesHCasting
+  instagram: https://www.instagram.com/deshamiltoncasting
+  facebook: https://www.facebook.com/des.hamiltoncasting
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: true
+  per_page: 100
+imgix:
+  source: des-hamilton-casting.imgix.net

@@ -1,0 +1,158 @@
+//  Table of Contents:
+//
+//   1. Mixins
+//   2. Global
+//   3. Plugins
+//   4. Color
+//   5. Typography
+//   6. Navigation
+//   7. Off-canvas
+//   8. Layout
+//   9. Home
+//   10. Menu / Food
+//   11. Find Us
+//   12. Story
+//   13. Hire Us
+//   14. Contact
+//   15. Page
+//   16. Footer
+
+
+// 1. Mixins
+// ---------
+
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+// 2. Global
+// ---------
+
+body {
+  cursor: default;
+  font-kerning: normal;
+}
+
+svg {
+  max-width: 100%;
+}
+
+::selection {
+  background: $primary-color;
+  color: $black;
+}
+
+:focus {
+  outline: 0;
+}
+
+// 3. Plugins
+// ----------
+
+.turbolinks-progress-bar {
+  height: 5px;
+  background-color: $primary-color;
+}
+
+// 4. Color
+// --------
+
+.white {
+  color: $white;
+}
+
+.primary-color {
+  color: get-color(primary);
+}
+
+.secondary-color {
+  color: get-color(secondary);
+}
+
+// 5. Typography
+// -------------
+
+.underline {
+  border-bottom: 1px solid $black;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+p a {
+  border-bottom: 1px solid $black;
+}
+
+// 6. Navigation
+// -------------
+
+.navigation {
+  width: 100%;
+  .cell {
+	z-index: 14; 
+  }
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $white;
+  }
+}
+
+// 7. Off-canvas
+// -------------
+
+.off-canvas {
+  @include links ($white,$dark-gray)
+}
+
+
+.excerpt {
+  position:relative;
+  &:hover .excerpt__title {
+  opacity: 1;
+  } 
+}
+
+.excerpt__title {
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0rem;
+  color: $white;
+  z-index: 1;
+  opacity: 0;
+  background-color: $black;
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $black;
+  }
+}
+
+.hamburger {
+  &.is-active {
+    .hamburger-inner {
+      &,
+      &::before,
+      &::after {
+        background-color: $white;
+      }
+    }
+  }
+}

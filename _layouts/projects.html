@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<!-- Projects -->
+<div class="grid-container">
+<div class="grid-x small-up-1 medium-up-2 large-up-2 xlarge-up-3 xxlarge-up-3">
+  {% assign projects = paginator.posts | where: "is-shown", "true" %}
+  {% for project in projects %}
+    {% include excerpt.html %}
+  {% endfor %}
+</div>
+</div>
+<!-- End Projects -->
