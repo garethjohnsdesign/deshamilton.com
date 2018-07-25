@@ -25,6 +25,25 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Maison';
+  src: 
+  url('../fonts/maison-neue-light.woff2') format('woff2'), 
+  url('../fonts/maison-neue-light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trade';
+  src: 
+  url('../fonts/trade-gothic-lt-std-bdcn20.woff2') format('woff2'), 
+  url('../fonts/trade-gothic-lt-std-bdcn20.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 @font-face {
   font-family: 'Gallery';

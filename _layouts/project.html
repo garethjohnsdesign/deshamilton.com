@@ -4,7 +4,7 @@ layout: default
 
 {% capture the_collection %}{{page.collection}}{% endcapture %}
   {% if page.collection %}
-    {% assign document = site[the_collection] | where: "is-shown", "true" | sort: 'position' %}
+    {% assign document = site[the_collection]| sort: 'position' %}
   {% endif %}
 {% for links in document  %}
   {% if links.title == page.title %}
@@ -39,11 +39,11 @@ layout: default
   <div class="grid-y align-center" style="height: 100%;">
     <div class="shrink cell">
 
-{% if page.vimeo %}
+{% if page.video %}
 <div class="grid-x grid-padding-x align-center">
   <div class="auto cell">
   	<div class="responsive-embed widescreen">
-  	   <iframe src="https://player.vimeo.com/video/{{ page.vimeo }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  	   <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   	</div>
   </div>
 </div>
@@ -60,7 +60,7 @@ layout: default
 
 <!-- Credits -->
 <div class="grid-x grid-padding-x align-center">
-  <div class="small-12 medium-shrink cell">
+  <div class="small-12 cell">
   
   {{ page.title }}
   
@@ -72,14 +72,6 @@ layout: default
   <div class="project__credits">{{ page.award }}</div>
   {% endif %}
   
-  
-  </div>
-  
-  <div class="small-12 medium-auto cell medium-text-right">
-  
-  {% if page.equipment %}
-  <div class="project__credits">{{ page.equipment }}</div>
-  {% endif %}
   
   </div>
   

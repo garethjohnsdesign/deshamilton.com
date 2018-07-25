@@ -66,7 +66,7 @@
 // ---------
 
 // $global-font-size: 100%;
-$global-font-size: 150%;
+$global-font-size: 120%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
@@ -79,13 +79,15 @@ $foundation-palette: (
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
-$black: #0a0a0a;
+$black: #121212;
 // $white: #fefefe;
 $white: #ffffff;
-$body-background: $white;
-$body-font-color: $black;
+// $body-background: $white;
+$body-background: $black;
+// $body-font-color: $black;
+$body-font-color: $white;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-$body-font-family: $primary-font-family;
+$body-font-family: $secondary-font-family;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -117,6 +119,7 @@ $breakpoints: (
 );
 $print-breakpoint: large;
 $breakpoint-classes: (small medium large);
+$breakpoint-classes: (small medium large xlarge xxlarge);
 
 // 3. The Grid
 // -----------
@@ -134,7 +137,8 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+// $header-font-family: $body-font-family;
+$header-font-family: $primary-font-family;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
@@ -164,20 +168,20 @@ $header-styles: (
 */
 $header-styles: (
   small: (
-    'h1': ('font-size': 24),
-    'h2': ('font-size': 20),
-    'h3': ('font-size': 19),
-    'h4': ('font-size': 18),
-    'h5': ('font-size': 17),
-    'h6': ('font-size': 16),
+    'h1': ('font-size': 40),
+    'h2': ('font-size': 32),
+    'h3': ('font-size': 28),
+    'h4': ('font-size': 24),
+    'h5': ('font-size': 20),
+    'h6': ('font-size': 18),
   ),
   medium: (
-    'h1': ('font-size': 36),
-    'h2': ('font-size': 40),
-    'h3': ('font-size': 31),
-    'h4': ('font-size': 25),
+    'h1': ('font-size': 40),
+    'h2': ('font-size': 32),
+    'h3': ('font-size': 28),
+    'h4': ('font-size': 24),
     'h5': ('font-size': 20),
-    'h6': ('font-size': 16),
+    'h6': ('font-size': 18),
   ),
 );
 $header-text-rendering: optimizeLegibility;
@@ -193,7 +197,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 // $anchor-color: $primary-color;
-$anchor-color: $black;
+$anchor-color: $white;
 $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
@@ -901,7 +905,7 @@ $grid-margin-gutters: (
 */
 $grid-margin-gutters: (
   small: 48px,
-  medium: 64px
+  medium: 32px
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;
