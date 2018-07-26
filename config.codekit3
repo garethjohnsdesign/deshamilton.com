@@ -125,11 +125,11 @@
 		"oAP": "\/_commercials\/king-of-tv-city.markdown",
 		"oF": 0
 		},
-	"\/_commercials\/life-feels-better-when-you-have-a-plan.markdown": {
+	"\/_commercials\/life-feels-better-when-you-have-a-plan-scottish-widows.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_commercials\/life-feels-better-when-you-have-a-plan.markdown",
+		"oAP": "\/_commercials\/life-feels-better-when-you-have-a-plan-scottish-widows.markdown",
 		"oF": 0
 		},
 	"\/_commercials\/moments-of-truth-strongbow.markdown": {
@@ -151,6 +151,55 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_commercials\/one-day-cancer-research.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/show-them-you-know-them.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/show-them-you-know-them.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/the-breath-before.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/the-breath-before.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/the-long-wait.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/the-long-wait.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/the-shit-kids-say-nspcc.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/the-shit-kids-say-nspcc.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/the-switch-nike.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/the-switch-nike.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/the-world-is-in-play.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/the-world-is-in-play.markdown",
+		"oF": 0
+		},
+	"\/_commercials\/three-pigs-guardian.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercials\/three-pigs-guardian.markdown",
 		"oF": 0
 		},
 	"\/_config.yml": {
@@ -1574,12 +1623,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/show-them-you-know.jpg": {
+		"ft": 16384,
+		"iS": 435725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/show-them-you-know.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/the-book-group.jpg": {
 		"ft": 16384,
 		"iS": 498763,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/the-book-group.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/the-breath-before.jpg": {
+		"ft": 16384,
+		"iS": 565398,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-breath-before.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1684,6 +1755,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/the-long-wait.jpg": {
+		"ft": 16384,
+		"iS": 510536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-long-wait.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/the-shit-kids-say.jpg": {
+		"ft": 16384,
+		"iS": 367071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-shit-kids-say.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/the-swimmer-01.jpg": {
 		"ft": 16384,
 		"iS": 123253,
@@ -1701,6 +1794,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/the-swimmer-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/the-switch.jpg": {
+		"ft": 16384,
+		"iS": 690587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-switch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
