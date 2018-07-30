@@ -510,6 +510,20 @@
 		"oAP": "\/_includes\/navigation.html",
 		"oF": 0
 		},
+	"\/_includes\/offcanvas-about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/offcanvas-about.html",
+		"oF": 0
+		},
+	"\/_includes\/offcanvas-projects.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/offcanvas-projects.html",
+		"oF": 0
+		},
 	"\/_includes\/offcanvas.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1801,6 +1815,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/police-dog-hogan-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/privado.jpg": {
+		"ft": 16384,
+		"iS": 237522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/privado.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

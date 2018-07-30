@@ -1,11 +1,11 @@
 ---
-title: Adult Life Skills
-image: "/uploads/adult-life-skills-02.jpg"
-date: 2016-06-24 00:00:00 Z
+title: The Book Group
+image: "/uploads/the-book-group.jpg"
+date: 2002-04-12 00:00:00 Z
 director: Rachel Tunnard
-with: Jodie Whittaker, Lorraine Ashbourne, Brett Goldstein
-imdb: https://www.imdb.com/title/tt4211044/
-video: 281611147
+with: Anne Dudek, Bonnie Engstrom, Michelle Gomez
+imdb: https://www.imdb.com/title/tt0276650/
+video:
 layout: project
 is-in-production: 
 ---

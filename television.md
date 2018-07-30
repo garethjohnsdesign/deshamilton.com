@@ -1,12 +1,12 @@
 ---
-title: Commercials
+title: Television
 position: 1
 layout: projects
 pagination:
   enabled: true
-  collection: commercial
-  sort_field: position
-  sort_reverse: false
+  collection: television
+  sort_field: date
+  sort_reverse: true
   per_page: 100
 ---
 
