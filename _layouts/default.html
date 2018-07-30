@@ -19,9 +19,13 @@ layout: compress
 <div class="off-canvas position-right" id="offCanvasAbout" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
 {% include offcanvas-about.html %}
 </div>
+
+<div class="off-canvas position-right" id="offCanvasMobile" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas-mobile.html %}
+</div>
 <!-- End Off Canvas Navigation --> 
 
-<div class="wrapper padding-top-1 padding-right-2 padding-bottom-2 padding-left-2 grid-y off-canvas-content align-justify {{page.layout | slugify}}">
+<div class="wrapper grid-y off-canvas-content align-justify {{page.layout | slugify}}">
 <!-- Navigation -->
 {% include navigation.html %}
 <!-- End Navigation -->
@@ -31,7 +35,9 @@ layout: compress
 <!-- End Content -->
 
 <!-- Footer -->
+<div class="padding-2">
 {% include footer.html %}
+</div>
 <!-- End Footer-->
 </div>
 

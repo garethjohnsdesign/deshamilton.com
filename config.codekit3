@@ -531,13 +531,6 @@
 		"oAP": "\/_includes\/offcanvas-projects.html",
 		"oF": 0
 		},
-	"\/_includes\/offcanvas.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/offcanvas.html",
-		"oF": 0
-		},
 	"\/_includes\/scripts.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3386,6 +3379,13 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/assets\/videos\/only-god-forgives-edit.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/videos\/only-god-forgives-edit.mp4",
+		"oF": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,

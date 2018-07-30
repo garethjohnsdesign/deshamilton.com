@@ -34,10 +34,10 @@
 <div class="grid-y align-center" style="height: 100%;">
   <div class="shrink cell">
     <ul class="menu vertical align-center">
-      <li><a href="/films/" class=" h1 text-uppercase">Films</a></li>
-      <li class="active"><a href="/commercials/" class=" h1 text-uppercase">Commercials</a></li>
-      <li><a href="/television/" class=" h1 text-uppercase">Television</a></li>
-      <li><a href="/music-videos/" class=" h1 text-uppercase">Music Videos</a></li>
+      <li><a href="/films/" class="h1 secondary-font">Films</a></li>
+      <li class="active"><a href="/commercials/" class="h1 secondary-font">Commercials</a></li>
+      <li><a href="/television/" class="h1 secondary-font">Television</a></li>
+      <li><a href="/music-videos/" class="h1 secondary-font">Music Videos</a></li>
     </ul>
   </div>
 </div>
@@ -46,26 +46,43 @@
 <div class="grid-y align-center" style="height: 100%;">
   <div class="shrink cell">
     <ul class="menu vertical align-center">
-      <li><a href="/about/" class=" h1 text-uppercase">About</a></li>
-      <li><a href="/cv/" class=" h1 text-uppercase">CV</a></li>
-      <li><a href="/contact/" class=" h1 text-uppercase">Contact</a></li>
+      <li><a href="/about/" class="h1 secondary-font">About</a></li>
+      <li><a href="/cv/" class="h1 secondary-font">CV</a></li>
+      <li><a href="/contact/" class="h1 secondary-font">Contact</a></li>
     </ul>
   </div>
 </div>
 </div>
-<div class="wrapper padding-top-1 padding-right-2 padding-bottom-2 padding-left-2 grid-y off-canvas-content align-justify projects">
-<div class="grid-x grid-padding-x grid-padding-y navigation">
-  <div class="small-9 medium-5 cell">
-    <a href="/" class="h5 text-uppercase site__title" id="site__title">Des Hamilton Casting</a>
+<div class="off-canvas position-right" id="offCanvasMobile" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+<div class="grid-y align-center" style="height: 100%;">
+  <div class="shrink cell">
+    <ul class="menu vertical align-center">
+      <li><a href="/films/" class="h2 secondary-font">Films</a></li>
+      <li class="active"><a href="/commercials/" class="h2 secondary-font">Commercials</a></li>
+      <li><a href="/television/" class="h2 secondary-font">Television</a></li>
+      <li><a href="/music-videos/" class="h2 secondary-font">Music Videos</a></li>
+      <li><a href="/about/" class="h2 secondary-font">About</a></li>
+      <li><a href="/cv/" class="h2 secondary-font">CV</a></li>
+      <li><a href="/contact/" class="h2 secondary-font">Contact</a></li>
+    </ul>
   </div>
-  <div class="shrink cell text-right show-for-small-only">
-    <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasMobile">Menu</a>
-  </div>
-  <div class="small-3 cell hide-for-small-only">
-    <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasProjects">Projects</a>
-  </div>
-  <div class="small-3 cell hide-for-small-only">
-    <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasAbout">Info</a>
+</div>
+</div>
+<div class="wrapper grid-y off-canvas-content align-justify projects">
+<div class="padding-2 navigation">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-9 medium-5 cell">
+      <a href="/" class="h5 text-uppercase site__title" id="site__title">Des Hamilton Casting</a>
+    </div>
+    <div class="shrink cell text-right show-for-small-only">
+      <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasMobile">Menu</a>
+    </div>
+    <div class="small-3 cell hide-for-small-only">
+      <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasProjects">Projects</a>
+    </div>
+    <div class="small-3 cell hide-for-small-only">
+      <a class="h5 text-uppercase" data-toggler=".is-active" aria-label="menu" data-toggle="offCanvasAbout">Info</a>
+    </div>
   </div>
 </div>
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-2 xlarge-up-3 xxlarge-up-3">
@@ -1162,6 +1179,7 @@
   </div>
 </div>
 </div>
+<div class="padding-2">
 <footer class="grid-x grid-padding-x grid-padding-y align-justify">  
   <div class="small-5 cell">
     <a href="mailto:info@deshamilton.com" class="h5 text-uppercase">E-mail</a>, <a href="mailto:info@deshamilton.com" class="h5 text-uppercase">+44 0207-253-5558</a>
@@ -1170,6 +1188,7 @@
     <a href="mailto:info@deshamilton.com" class="h5 text-uppercase">Represented by Curtis Brown</a>
   </div>
 </footer>
+</div>
 <script async src="/assets/js/min/app-min.js"></script>
 <script defer src="/assets/js/min/svgxuse-min.js"></script>
 </body>
