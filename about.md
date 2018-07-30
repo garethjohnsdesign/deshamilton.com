@@ -9,6 +9,4 @@ In the last 5 years the company has expanded their offices to include Casting Su
 
 Very often we work with directors who like to combine non-actors with those who are professionally trained.
 
-If you have been approached by one of our team please take this opportunity seriously and get in touch. Notable successes we’ve had from street casting include; Thomas Turgoose "This is England", Kathleen McDermott "Morvern Callar", Luke Fraser "Bullet Boy", Tom Sweet "The Childhood of A Leader"
-
-Amongst many others, who had previously never acted before.
+If you have been approached by one of our team please take this opportunity seriously and get in touch. Notable successes we’ve had from street casting include; Thomas Turgoose "This is England", Kathleen McDermott "Morvern Callar", Luke Fraser "Bullet Boy", Tom Sweet "The Childhood of A Leader". Amongst many others, who had previously never acted before.

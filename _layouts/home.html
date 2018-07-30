@@ -3,7 +3,14 @@ layout: default
 ---
 
 <!-- Projects -->
-<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-2 xlarge-up-3 xxlarge-up-3">
+<div class="grid-x grid-padding-x grid-padding-y padding-top-2 padding-bottom-2">
+  <div class="small-12 medium-10 large-8 cell h1 secondary-font">London and Glasgow-based casting agency working across film, commercials and music videos</div>
+</div>
+<!-- End Projects -->
+
+
+<!-- Projects -->
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-1 xlarge-up-2 xxlarge-up-2">
   {% assign projects = paginator.posts %}
   {% for project in projects %}
     {% include excerpt.html %}

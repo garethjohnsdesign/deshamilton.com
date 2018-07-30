@@ -75,6 +75,13 @@ $foundation-palette: (
   warning: #ffae00,
   alert: #cc4b37,
 );
+$foundation-palette: (
+  primary: #121212,
+  secondary: #767676,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+);
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
@@ -175,7 +182,7 @@ $header-styles: (
     'h6': ('font-size': 18),
   ),
   medium: (
-    'h1': ('font-size': 40),
+    'h1': ('font-size': 56),
     'h2': ('font-size': 32),
     'h3': ('font-size': 28),
     'h4': ('font-size': 24),
