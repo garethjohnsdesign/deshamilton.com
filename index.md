@@ -6,7 +6,7 @@ layout: home
 pagination:
   enabled: true
   collection: film, television, commercials, music-videos
-  sort_field: position
+  sort_field: date
   tag: home
 ---
 

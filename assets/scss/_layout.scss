@@ -187,3 +187,13 @@ p a {
    color: $black
 }
 */
+
+.wrapper {
+  min-height: 100vh;
+}
+
+.about p {
+  font-size: 2rem;
+  line-height: 2.75rem;
+  text-indent: 1em;
+}

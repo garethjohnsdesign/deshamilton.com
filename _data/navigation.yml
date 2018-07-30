@@ -9,9 +9,9 @@ projects:
     url: /music-videos/
     
 about:
+  - title: About
+    url: /about/
   - title: CV
     url: /cv/   
-  - title: Info
-    url: /info/
   - title: Contact
     url: /contact/ 
