@@ -65,8 +65,7 @@
 // 1. Global
 // ---------
 
-// $global-font-size: 100%;
-$global-font-size: 120%;
+$global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
@@ -83,9 +82,9 @@ $black: #121212;
 // $white: #fefefe;
 $white: #ffffff;
 // $body-background: $white;
-$body-background: $black;
+$body-background: $white;
 // $body-font-color: $black;
-$body-font-color: $white;
+$body-font-color: $black;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-font-family: $secondary-font-family;
 $body-antialiased: true;
@@ -197,7 +196,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 // $anchor-color: $primary-color;
-$anchor-color: $white;
+$anchor-color: $black;
 $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
@@ -905,7 +904,7 @@ $grid-margin-gutters: (
 */
 $grid-margin-gutters: (
   small: 48px,
-  medium: 32px
+  medium: 48px
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

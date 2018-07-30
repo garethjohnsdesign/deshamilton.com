@@ -1,0 +1,12 @@
+---
+title: Glue
+image: "/uploads/glue-02.jpg"
+date: 2016-06-24 00:00:00 Z
+director: Rachel Tunnard
+with: Jodie Whittaker, Lorraine Ashbourne, Brett Goldstein
+imdb: https://www.imdb.com/title/tt4211044/
+video: 281611147
+layout: project
+is-in-production: 
+---
+

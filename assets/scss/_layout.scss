@@ -63,6 +63,15 @@ svg {
   background-color: $primary-color;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0.05rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: 0.05rem;
+}
+
+
 // 4. Color
 // --------
 
@@ -170,3 +179,11 @@ p a {
     }
   }
 }
+
+/*
+.site__title {
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: $white;
+   color: $black
+}
+*/
