@@ -1,10 +1,10 @@
 ---
 title: Bullet Boy
 image: "/uploads/bullet-boy.jpg"
-date: 2009-03-13 00:00:00 Z
-director: Nicolas Winding Refn
-with: Tom Hardy, Kelly Adams, Luing Andrews
-imdb: https://www.imdb.com/title/tt1172570/
+date: 2005-04-08 00:00:00 Z
+director: Saul Dibb
+with: Ashley Walters, Luke Fraser, Leon Black
+imdb: https://www.imdb.com/title/tt0385568/
 video: 281611410
 layout: project
 is-in-production: 

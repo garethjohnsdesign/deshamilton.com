@@ -2,46 +2,38 @@
 layout: default
 ---
 
-<!--
-<section class="section home__feature__video" style="height: 60vh;">
-<video src="assets/videos/only-god-forgives-edit.mp4" autoplay muted playsinline loop></video>
-</section>
--->
-
-<!-- Projects -->
+<!-- Company Description -->
 <div class="grid-x grid-padding-x grid-padding-y padding-top-2 padding-bottom-2">
   <div class="small-12 medium-10 large-10 xxlarge-8 cell">{{page.description | markdownify}}</div>
 </div>
-<!-- End Projects -->
+<!-- End Company Description -->
 
-<!-- Projects -->
+
+<!-- Selected Projects -->
+
 <div class="grid-x grid-padding-x grid-padding-y">
   <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">Selected Projects</h6></div>
 </div>
-<!-- End Projects -->
 
-<!-- Projects -->
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-1 xlarge-up-2 xxlarge-up-2">
   {% assign projects = paginator.posts %}
   {% for project in projects %}
     {% include excerpt.html %}
   {% endfor %}
 </div>
-<!-- End Projects -->
+<!-- End Selected Projects -->
 
-<!-- Projects -->
+<!-- In Production -->
 <div class="grid-x grid-padding-x grid-padding-y margin-top-2">
   <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">In production</h6></div>
 </div>
-<!-- End Projects -->
 
-<!-- Projects -->
 <div class="grid-x grid-padding-x">
   <div class="small-12 cell">
   {% assign in-production = site.in-production %}
   {% for project in in-production %}
-    <div><h2>{{ project.title }}</h2><h3>{{ project.with }}</h3></div>
+     <div class="margin-bottom-2"><h4>{{ project.title }}</h4><h5>D — {{ project.director }}</h5>{% if project.with %}<h5>W — {{ project.with }}</h5>{% endif %}</div>
   {% endfor %}
   </div>
 </div>
-<!-- End Projects -->
+<!-- End In Production -->
