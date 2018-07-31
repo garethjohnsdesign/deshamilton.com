@@ -1,5 +1,7 @@
 ---
 title: War Machine
+tags:
+- home
 image: "/uploads/war-machine-01.jpg"
 date: 2017-05-26 00:00:00 Z
 director: David Michôd

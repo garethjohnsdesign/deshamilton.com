@@ -5,6 +5,9 @@ collections:
   commercials:
     title: Commercials
     output: true
+  in-production:
+    title: In Production
+    output: false
   films:
     title: Films
     output: true
@@ -53,7 +56,7 @@ email: info@deshamilton.com
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%d %B %Y"
+date_format: "%Y"
 future: true
 social:
   twitter: https://twitter.com/DesHCasting

@@ -10,10 +10,15 @@ layout: default
 
 <!-- Projects -->
 <div class="grid-x grid-padding-x grid-padding-y padding-top-2 padding-bottom-2">
-  <div class="small-12 medium-10 large-8 cell">{{page.description | markdownify}}</div>
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell">{{page.description | markdownify}}</div>
 </div>
 <!-- End Projects -->
 
+<!-- Projects -->
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">Selected Projects</h6></div>
+</div>
+<!-- End Projects -->
 
 <!-- Projects -->
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-1 xlarge-up-2 xxlarge-up-2">
@@ -21,5 +26,22 @@ layout: default
   {% for project in projects %}
     {% include excerpt.html %}
   {% endfor %}
+</div>
+<!-- End Projects -->
+
+<!-- Projects -->
+<div class="grid-x grid-padding-x grid-padding-y margin-top-2">
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">In production</h6></div>
+</div>
+<!-- End Projects -->
+
+<!-- Projects -->
+<div class="grid-x grid-padding-x">
+  <div class="small-12 cell">
+  {% assign in-production = site.in-production %}
+  {% for project in in-production %}
+    <div><h2>{{ project.title }}</h2><h3>{{ project.with }}</h3></div>
+  {% endfor %}
+  </div>
 </div>
 <!-- End Projects -->

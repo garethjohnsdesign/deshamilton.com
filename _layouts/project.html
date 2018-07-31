@@ -4,7 +4,7 @@ layout: default
 
 {% capture the_collection %}{{page.collection}}{% endcapture %}
   {% if page.collection %}
-    {% assign document = site[the_collection]| sort: 'position' %}
+    {% assign document = site[the_collection]| sort: 'date' %}
   {% endif %}
 {% for links in document  %}
   {% if links.title == page.title %}
@@ -37,7 +37,8 @@ layout: default
 <!-- Center -->
 <div class="small-12 medium-8 cell">
   <div class="grid-y align-center" style="height: 100%;">
-    <div class="shrink cell">
+    <div class="shrink cell text-center">
+      <h3 class="text-uppercase margin-bottom-1">{{ page.title }}{% if page.brand %} — {{ page.brand }}{% endif %}</h3>
 
 {% if page.video %}
 <div class="grid-x grid-padding-x align-center">
@@ -62,16 +63,25 @@ layout: default
 <div class="grid-x grid-padding-x align-center">
   <div class="small-12 cell text-center">
   
-  <h3 class="text-uppercase">{{ page.title }}</h3>
-  
-
-  <div class="project__credits">{{ page.director }} — {{ page.production-company }}</div>
-
-  
-  {% if page.award %}
-  <div class="project__credits">{{ page.award }}</div>
+  {% if page.director %}
+  <div class="margin-bottom-0">D — {{ page.director }}</div>
   {% endif %}
   
+  {% if page.agency %}
+  <div class="margin-bottom-0">A — {{ page.agency }}</div>
+  {% endif %}
+  
+  {% if page.production-company %}
+  <div class="margin-bottom-0">P — {{ page.production-company }}</div>
+  {% endif %}
+  
+  {% if page.with %}
+  <div class="margin-bottom-0">W — {{ page.with }}</div>
+  {% endif %}
+  
+  {% if page.imdb %}
+  <a href="{{page.imdb}}">IMDB</a>
+  {% endif %}
   
   </div>
   

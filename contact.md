@@ -17,7 +17,7 @@ details:
 
     Typically internships run for a three-month period. Interns will enjoy valuable hands-on experience in a friendly, busy office.
 
-    We always like to hear from talented people so do send a CV to [work@deshamitlon.com](mailto:work@deshamitlon.com) and let us know which role you are looking for.
+    We always like to hear from talented people so do send a CV to [work@deshamilton.com](mailto:work@deshamilton.com) and let us know which role you are looking for.
 layout: contact
 ---
 

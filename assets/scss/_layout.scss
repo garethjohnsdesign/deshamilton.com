@@ -63,15 +63,13 @@ svg {
   background-color: $primary-color;
 }
 
-/*
 h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.025rem;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.025rem;
 }
-*/
 
 
 // 4. Color
@@ -133,10 +131,13 @@ h1 a:hover {
 // -------------
 
 .navigation {
-  width: 100%;
   .cell {
-	z-index: 14; 
+	z-index: 14;
   }
+}
+
+.navigation.is-active {
+  @include links ($white,$dark-gray)
 }
 
 .hamburger-inner {
@@ -213,17 +214,40 @@ h1 a:hover {
 
 .wrapper {
   min-height: 100vh;
+  padding: 1rem;
+  @include breakpoint(medium) {
+    padding: 1rem;
+  }
+  @include breakpoint(large) {
+    padding: 1.5rem;
+  }
 }
 
 .about p {
-  font-size: 1.75rem;
-  line-height: 2.5rem;
+  font-size: 1rem;
+  line-height: 1.4;
   text-indent: 2em;
+  @include breakpoint(medium) {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  }
+  @include breakpoint(large) {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  }
 }
 
 .contact p {
-  font-size: 1.75rem;
-  line-height: 2.5rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  @include breakpoint(medium) {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  }
+  @include breakpoint(large) {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  }
 }
 
 
