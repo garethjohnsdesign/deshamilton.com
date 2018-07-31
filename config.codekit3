@@ -2604,6 +2604,34 @@
 		"oAP": "\/assets\/favicons\/site.webmanifest",
 		"oF": 0
 		},
+	"\/assets\/fonts\/basis-grotesque-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/basis-grotesque-bold.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/basis-grotesque-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/basis-grotesque-bold.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/basis-grotesque-mono-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/basis-grotesque-mono-bold.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/basis-grotesque-mono-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/basis-grotesque-mono-bold.woff2",
+		"oF": 0
+		},
 	"\/assets\/fonts\/basis-grotesque-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -10617,13 +10645,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/contact.html",
-		"oF": 0
-		},
 	"\/contact.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10633,8 +10654,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/contact.html",
-		"oF": 0,
+		"oAP": "\/contact.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

@@ -68,6 +68,7 @@
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
+/*
 $foundation-palette: (
   primary: #1779ba,
   secondary: #767676,
@@ -75,6 +76,7 @@ $foundation-palette: (
   warning: #ffae00,
   alert: #cc4b37,
 );
+*/
 $foundation-palette: (
   primary: #121212,
   secondary: #767676,
@@ -124,7 +126,7 @@ $breakpoints: (
   xxlarge: 1440px,
 );
 $print-breakpoint: large;
-$breakpoint-classes: (small medium large);
+// $breakpoint-classes: (small medium large);
 $breakpoint-classes: (small medium large xlarge xxlarge);
 
 // 3. The Grid
@@ -150,7 +152,7 @@ $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
 // $header-lineheight: 1.4;
-$header-lineheight: 1.1;
+$header-lineheight: 1.2;
 $header-margin-bottom: 0.5rem;
 /*
 $header-styles: (
@@ -204,7 +206,9 @@ $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 // $anchor-color: $primary-color;
 $anchor-color: $black;
-$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+// $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+$anchor-color-hover: scale-color($anchor-color, $lightness: 50%);
+// $anchor-color-hover: $medium-gray;
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;

@@ -8,6 +8,25 @@
 }
 
 @font-face {
+  font-family: 'Basis Bold';
+  src: 
+  url('../fonts/basis-grotesque-bold.woff2') format('woff2'), 
+  url('../fonts/basis-grotesque-bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Basis Mono Bold';
+  src: 
+  url('../fonts/basis-grotesque-mono-bold.woff2') format('woff2'), 
+  url('../fonts/basis-grotesque-mono-bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
   font-family: 'Founders';
   src: 
   url('../fonts/founders-grotesk-regular.woff2') format('woff2'), 
