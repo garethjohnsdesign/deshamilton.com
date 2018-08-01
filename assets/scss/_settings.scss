@@ -66,7 +66,6 @@
 // ---------
 
 $global-font-size: 100%;
-$global-font-size: 120%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 /*
@@ -181,16 +180,16 @@ $header-styles: (
     'h2': ('font-size': 32),
     'h3': ('font-size': 28),
     'h4': ('font-size': 24),
-    'h5': ('font-size': 18),
-    'h6': ('font-size': 18),
+    'h5': ('font-size': 16),
+    'h6': ('font-size': 16),
   ),
   medium: (
     'h1': ('font-size': 56),
     'h2': ('font-size': 32),
     'h3': ('font-size': 28),
     'h4': ('font-size': 24),
-    'h5': ('font-size': 18),
-    'h6': ('font-size': 18),
+    'h5': ('font-size': 16),
+    'h6': ('font-size': 16),
   ),
 );
 $header-text-rendering: optimizeLegibility;
