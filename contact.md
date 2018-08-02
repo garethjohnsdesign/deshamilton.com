@@ -18,6 +18,8 @@ details:
     Typically internships run for a three-month period. Interns will enjoy valuable hands-on experience in a friendly, busy office.
 
     We always like to hear from talented people so do send a CV to [work@deshamilton.com](mailto:work@deshamilton.com) and let us know which role you are looking for.
+- title: Legal
+  text: "[Terms & Conditions](/terms), [Privacy Policy](/privacy)"
 - title: Colophon
   text: "[Gareth Johns Design + Direction](https://www.garethjohnsdesign.com)"
 layout: contact

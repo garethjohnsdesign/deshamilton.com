@@ -2695,34 +2695,6 @@
 		"oAP": "\/assets\/favicons\/site.webmanifest",
 		"oF": 0
 		},
-	"\/assets\/fonts\/basis-grotesque-bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-bold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/basis-grotesque-bold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-bold.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/basis-grotesque-mono-bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-mono-bold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/basis-grotesque-mono-bold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-mono-bold.woff2",
-		"oF": 0
-		},
 	"\/assets\/fonts\/basis-grotesque-mono.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -2751,20 +2723,6 @@
 		"oAP": "\/assets\/fonts\/basis-grotesque-regular.woff2",
 		"oF": 0
 		},
-	"\/assets\/fonts\/founders-grotesk-regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/founders-grotesk-regular.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/founders-grotesk-regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/founders-grotesk-regular.woff2",
-		"oF": 0
-		},
 	"\/assets\/fonts\/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -2777,90 +2735,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/gallery.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/helvetica-neue-lt-pro-bd-cn.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/helvetica-neue-lt-pro-bd-cn.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/helvetica-neue-lt-pro-bd-cn.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/helvetica-neue-lt-pro-bd-cn.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/maison-neue-book.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/maison-neue-book.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/maison-neue-book.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/maison-neue-book.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/maison-neue-light.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/maison-neue-light.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/maison-neue-light.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/maison-neue-light.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Platform-Medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Platform-Medium.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Platform-Medium.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Platform-Medium.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Platform-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Platform-Regular.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Platform-Regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Platform-Regular.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/trade-gothic-lt-std-bdcn20.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/trade-gothic-lt-std-bdcn20.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/trade-gothic-lt-std-bdcn20.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/trade-gothic-lt-std-bdcn20.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/logo.svg": {
@@ -2885,7 +2759,7 @@
 		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 67758,
+		"iS": 21590,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
@@ -3032,19 +2906,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/scss\/_mapbox.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_mapbox.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/scss\/_settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3117,7 +2978,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/assets\/scss\/css\/hamburgers.css",
 		"oF": 0,
 		"oS": 0,
