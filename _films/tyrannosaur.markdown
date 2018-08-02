@@ -1,5 +1,7 @@
 ---
 title: Tyrannosaur
+tags:
+- home
 image: "/uploads/tyrannosaur-01.jpg"
 date: 2011-10-07 00:00:00 Z
 director: Paddy Considine

@@ -1,5 +1,7 @@
 ---
 title: Melancholia
+tags:
+- home
 image: "/uploads/melancholia-02.jpg"
 date: 2011-09-30 00:00:00 Z
 director: Lars von Trier
