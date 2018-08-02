@@ -5,7 +5,7 @@ layout: default
 
 
 <!-- Film -->
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
 <div class="small-12 cell">
   <h3 class="text-uppercase">Film</h3>
 </div>
@@ -13,7 +13,7 @@ layout: default
 
 {% assign films = site.films | sort: 'date' | reverse %}
 {% for project in films %}
-<div class="grid-x grid-padding-x padding-bottom-1">
+<div class="grid-x grid-padding-x padding-bottom-1" data-aos="fade-in">
 <div class="small-12 medium-3 large-3 cell">{{project.title}}</div>
 <div class="small-12 medium-2 large-2 cell">{{project.director}}</div>
 <div class="small-12 medium-5 large-5 cell">{{project.with}}</div>
@@ -23,7 +23,7 @@ layout: default
 <!-- End Film -->
 
 <!-- Television -->
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
 <div class="small-12 cell">
   <h3 class="text-uppercase">Television</h3>
 </div>
@@ -31,7 +31,7 @@ layout: default
 
 {% assign television = site.television | sort: 'date' | reverse %}
 {% for project in television %}
-<div class="grid-x grid-padding-x padding-bottom-1">
+<div class="grid-x grid-padding-x padding-bottom-1" data-aos="fade-in">
 <div class="small-12 medium-3 large-3 cell">{{project.title}}</div>
 <div class="small-12 medium-2 large-2 cell">{{project.director}}</div>
 <div class="small-12 medium-5 large-5 cell">{{project.with}}</div>
@@ -41,7 +41,7 @@ layout: default
 <!-- End Television -->
 
 <!-- Commercials -->
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
 <div class="small-12 cell">
   <h3 class="text-uppercase">Commercials</h3>
 </div>
@@ -49,7 +49,7 @@ layout: default
 
 {% assign commercials = site.commercials | sort: 'date' | reverse %}
 {% for project in commercials %}
-<div class="grid-x grid-padding-x padding-bottom-1">
+<div class="grid-x grid-padding-x padding-bottom-1" data-aos="fade-in">
 <div class="small-12 medium-3 large-3 cell">{{project.title}}</div>
 <div class="small-12 medium-2 large-2 cell">{{project.director}}</div>
 <div class="small-12 medium-5 large-5 cell">{{project.with}}</div>
@@ -59,7 +59,7 @@ layout: default
 <!-- End Commercials -->
 
 <!-- Music Videos -->
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
 <div class="small-12 cell">
   <h3 class="text-uppercase">Music Videos</h3>
 </div>
@@ -67,7 +67,7 @@ layout: default
 
 {% assign music-videos = site.music-videos | sort: 'date' | reverse %}
 {% for project in music-videos %}
-<div class="grid-x grid-padding-x padding-bottom-1">
+<div class="grid-x grid-padding-x padding-bottom-1" data-aos="fade-in">
 <div class="small-12 medium-3 large-3 cell">{{project.title}}</div>
 <div class="small-12 medium-2 large-2 cell">{{project.director}}</div>
 <div class="small-12 medium-5 large-5 cell">{{project.with}}</div>
