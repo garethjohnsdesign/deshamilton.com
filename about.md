@@ -1,5 +1,6 @@
 ---
 title: About
+position: 5
 layout: about
 ---
 

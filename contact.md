@@ -1,6 +1,6 @@
 ---
 title: Contact
-position: 2
+position: 6
 details:
 - title: Actor Enquiries
   text: "[info@deshamilton.com](mailto:info@deshamilton.com)"

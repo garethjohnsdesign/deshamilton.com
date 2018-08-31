@@ -1,6 +1,6 @@
 ---
 title: Commercials
-position: 1
+position: 3
 layout: projects
 pagination:
   enabled: true

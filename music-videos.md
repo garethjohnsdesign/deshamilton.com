@@ -1,6 +1,6 @@
 ---
 title: Music Videos
-position: 1
+position: 4
 layout: projects
 pagination:
   enabled: true
