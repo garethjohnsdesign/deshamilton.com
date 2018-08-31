@@ -1,0 +1,54 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body>
+  
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-right" id="offCanvasProjects" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas-projects.html %}
+</div>
+
+<div class="off-canvas position-right" id="offCanvasAbout" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas-about.html %}
+</div>
+
+<div class="off-canvas position-right" id="offCanvasMobile" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas-mobile.html %}
+</div>
+<!-- End Off Canvas Navigation --> 
+
+<div class="wrapper grid-y off-canvas-content align-justify {{page.layout | slugify}}" data-off-canvas-content>
+<!-- Navigation -->
+{% include navigation.html %}
+<!-- End Navigation -->
+
+<!-- Content -->
+{{content}}
+<!-- End Content -->
+
+<!-- Footer -->
+{% include footer.html %}
+<!-- End Footer-->
+</div>
+
+
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+<!-- Google Analytics -->
+{% if site.analytics %}
+{% include analytics.html %}
+{% endif %}
+<!-- End Google Analytics -->
+</body>
+
+</html>

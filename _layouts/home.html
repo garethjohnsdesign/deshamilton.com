@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<!-- Company Description -->
+<div class="grid-x grid-padding-x grid-padding-y padding-top-2 padding-bottom-2" data-aos="fade-in">
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell">{{page.description | markdownify}}</div>
+</div>
+<!-- End Company Description -->
+
+
+<!-- Selected Projects -->
+
+<div class="grid-x grid-padding-x" data-aos="fade-in">
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">Selected Projects</h6></div>
+</div>
+
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-1 xlarge-up-2 xxlarge-up-2">
+  {% assign projects = paginator.posts %}
+  {% for project in projects %}
+    {% include excerpt.html %}
+  {% endfor %}
+</div>
+<!-- End Selected Projects -->
+
+<!-- In Production -->
+<div class="grid-x grid-padding-x grid-padding-y margin-top-2" data-aos="fade-in">
+  <div class="small-12 medium-10 large-10 xxlarge-8 cell"><h6 class="text-uppercase">In Production</h6></div>
+</div>
+
+<div class="grid-x grid-padding-x">
+  <div class="small-12 cell">
+  {% assign in-production = site.in-production %}
+  {% for project in in-production %}
+     <div class="margin-bottom-2" data-aos="fade-in"><h4 class="secondary-font">{{ project.title }}</h4><h5>D — {{ project.director }}</h5>{% if project.with %}<h5>W — {{ project.with }}</h5>{% endif %}</div>
+  {% endfor %}
+  </div>
+</div>
+<!-- End In Production -->
