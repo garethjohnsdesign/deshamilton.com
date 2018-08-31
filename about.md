@@ -1,6 +1,6 @@
 ---
 title: About
-position: 1
+position: 3
 layout: about
 ---
 
