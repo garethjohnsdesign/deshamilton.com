@@ -38,7 +38,7 @@ layout: default
 <div class="small-12 medium-8 cell">
   <div class="grid-y align-center" style="height: 100%;">
     <div class="shrink cell text-center">
-      <h3 class="text-uppercase margin-bottom-1">{{ page.title }}{% if page.brand %} — {{ page.brand }}{% endif %}</h3>
+      <h4 class="text-uppercase margin-bottom-1">{{ page.title }}{% if page.brand %} — {{ page.brand }}{% endif %}</h4>
 
 {% if page.video %}
 <div class="grid-x grid-padding-x align-center">
@@ -64,19 +64,19 @@ layout: default
   <div class="small-12 cell text-center">
   
   {% if page.director %}
-  <div class="margin-bottom-0">D — {{ page.director }}</div>
+  <div class="margin-bottom-0">Director — {{ page.director }}</div>
   {% endif %}
   
   {% if page.agency %}
-  <div class="margin-bottom-0">A — {{ page.agency }}</div>
+  <div class="margin-bottom-0">Agency — {{ page.agency }}</div>
   {% endif %}
   
   {% if page.production-company %}
-  <div class="margin-bottom-0">P — {{ page.production-company }}</div>
+  <div class="margin-bottom-0">Production — {{ page.production-company }}</div>
   {% endif %}
   
   {% if page.with %}
-  <div class="margin-bottom-0">W — {{ page.with }}</div>
+  <div class="margin-bottom-0">With — {{ page.with }}</div>
   {% endif %}
   
   {% if page.imdb %}
