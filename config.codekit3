@@ -755,6 +755,12 @@
 		"oAP": "\/_music-videos\/the-conversation-texas.markdown",
 		"oF": 0
 		},
+	"\/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_site",
+		"oF": 0
+		},
 	"\/_television\/fallout.markdown": {
 		"cB": 0,
 		"ft": 8192,
