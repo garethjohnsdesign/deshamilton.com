@@ -1,6 +1,6 @@
 ---
 title: CV
-position: 4
+position: 7
 layout: cv
 ---
 
