@@ -16,6 +16,13 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.md": {
 		"cB": 0,
 		"cS": 0,
