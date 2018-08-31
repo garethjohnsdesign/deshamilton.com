@@ -5,26 +5,27 @@ collections:
   commercials:
     title: Commercials
     output: true
-  in-production:
-    title: In Production
-    output: false
   films:
     title: Films
     output: true
-  television:
-    title: Television
-    output: true
+  in-production:
+    title: In Production
+    output: false
   music-videos:
     title: Music Videos
     output: true
   posts:
     title: Posts
     output: true
+  television:
+    title: Television
+    output: true
   uploads:
     title: Uploads
     output: false
 url: https://www.deshamilton.com
-description: London and Glasgow-based casting agency working across film, television commercials and music videos
+description: London and Glasgow-based casting agency working across film, television
+  commercials and music videos
 permalink: pretty
 exclude:
 - bower.json

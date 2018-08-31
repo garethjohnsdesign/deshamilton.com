@@ -1,14 +1,15 @@
 ---
 title: The Shit Kids Say
+date: 2015-02-22 00:00:00 Z
 image: "/uploads/the-shit-kids-say.jpg"
 brand: NSPCC
 agency: Inferno
 production-company: Academy Films
-date: 2015-02-22 00:00:00 Z
 director: Amanda Boyle
-with:
-imdb:
+with: 
+imdb: 
 video: 281648388
 layout: project
 is-in-production: 
 ---
+
