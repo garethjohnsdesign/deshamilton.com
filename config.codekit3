@@ -2695,25 +2695,11 @@
 		"oAP": "\/assets\/favicons\/site.webmanifest",
 		"oF": 0
 		},
-	"\/assets\/fonts\/basis-grotesque-mono.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-mono.woff",
-		"oF": 0
-		},
 	"\/assets\/fonts\/basis-grotesque-mono.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/basis-grotesque-mono.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/basis-grotesque-regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/basis-grotesque-regular.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/basis-grotesque-regular.woff2": {
@@ -10818,8 +10804,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/terms.html",
-		"oF": 0,
+		"oAP": "\/terms.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

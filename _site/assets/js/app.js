@@ -1,21 +1,9 @@
-$(document).foundation();
+$(document).on('turbolinks:load', function() {
 
-// 1. Loading
+// 1. Foundation
 // --------------------
 
-/*
-$(function() {
-if (sessionStorage.getItem('set') === 'set') {
-  $('.loader').hide();
-} else {
-  $('.loader').show();
-  setTimeout(function(){
-        $('.loader').addClass('loaded');
-    }, 1500);  
-  sessionStorage.setItem('set', 'set');
-}
-});
-*/
+$(document).foundation();
 
 // 2. Animate on Scroll
 // --------------------
@@ -29,5 +17,7 @@ $(function() {
 });
 
 $(function() {
-window.addEventListener('load', AOS.refresh);
+  window.addEventListener('load', AOS.refresh);
+});
+
 });
