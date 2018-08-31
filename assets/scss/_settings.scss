@@ -184,7 +184,7 @@ $header-styles: (
     'h6': ('font-size': 16),
   ),
   medium: (
-    'h1': ('font-size': 56),
+    'h1': ('font-size': 48),
     'h2': ('font-size': 32),
     'h3': ('font-size': 28),
     'h4': ('font-size': 24),
@@ -916,7 +916,8 @@ $grid-margin-gutters: (
 */
 $grid-margin-gutters: (
   small: 24px,
-  medium: 48px
+  medium: 36px,
+  large: 36px,
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;
