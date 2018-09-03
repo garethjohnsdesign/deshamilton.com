@@ -90,6 +90,10 @@ h1, h2, h3, h4, h5, h6 {
 // 5. Typography
 // -------------
 
+a {
+  transition: color .35s cubic-bezier(.39, .575, .565, 1);
+}
+
 .underline {
   border-bottom: 1px solid $black;
 }
