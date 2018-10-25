@@ -21,7 +21,7 @@ details:
 - title: Legal
   text: "[Terms & Conditions](/terms), [Privacy Policy](/privacy)"
 - title: Site
-  text: "[Gareth Johns Design + Direction](https://www.garethjohnsdesign.com)"
+  text: "[Gareth Johns Design + Development](https://www.garethjohnsdesign.com)"
 layout: contact
 ---
 

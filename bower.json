@@ -33,14 +33,17 @@
   ],
   "private": true,
   "dependencies": {
-    "aos": "^2.2.0",
+    "aos": "^2.3.4",
     "foundation-sites": "^6.4.3",
-    "svgxuse": "^1.2.4",
-    "what-input": "^5.0.2",
-    "lightgallery": "^1.6.6",
-    "turbolinks5": "^5.1.1"
+    "svgxuse": "^1.2.6",
+    "what-input": "^5.1.1",
+    "lightgallery": "^1.6.11",
+    "turbolinks5": "^5.2.0",
+    "jquery": "^3.3.1",
+    "motion-ui": "^2.0.3"
   },
   "resolutions": {
-    "what-input": "^5.0.2"
+    "what-input": "^5.1.1",
+    "motion-ui": "^2.0.3"
   }
 }

@@ -25,11 +25,11 @@ Turbolinks automatically initializes itself when loaded via a standalone `<scrip
 
 Your Ruby on Rails application can use the [`turbolinks` RubyGem](https://github.com/turbolinks/turbolinks-rails) to install Turbolinks. This gem contains a Rails engine which integrates seamlessly with the Rails asset pipeline.
 
-1. Add the `turbolinks` gem, version 5, to your Gemfile: `gem 'turbolinks', '~> 5.0.0'`
+1. Add the `turbolinks` gem, version 5, to your Gemfile: `gem 'turbolinks', '~> 5.1.0'`
 2. Run `bundle install`.
 3. Add `//= require turbolinks` to your JavaScript manifest file (usually found at `app/assets/javascripts/application.js`).
 
-The gem also provides server-side support for Turbolinks redirection.
+The gem also provides server-side support for Turbolinks redirection, which can be used without the asset pipeline.
 
 ### Installation Using npm
 
@@ -390,12 +390,12 @@ Annotate asset elements with `data-turbolinks-track="reload"` and include a vers
 
 ## Ensuring Specific Pages Trigger a Full Reload
 
-You can ensure visits to a certain page will always trigger a full reload by including a `<meta name="visit-control">` element in the page’s `<head>`.
+You can ensure visits to a certain page will always trigger a full reload by including a `<meta name="turbolinks-visit-control">` element in the page’s `<head>`.
 
 ```html
 <head>
   ...
-  <meta name="turbolinks-visit-control" name="reload">
+  <meta name="turbolinks-visit-control" content="reload">
 </head>
 ```
 
@@ -541,7 +541,17 @@ $ bin/blade build
 
 ## Running Tests
 
-Follow the instructions for _Building From Source_ above. Then run `bin/blade runner` and visit the displayed URL in your browser. The Turbolinks test suite will start automatically.
+The Turbolinks test suite is written in [TypeScript](https://www.typescriptlang.org) with the [Intern testing library](https://theintern.io).
+
+To run the tests, first make sure you have the [Yarn package manager](https://yarnpkg.com) installed. Follow the instructions for _Building From Source_ above, then run the following commands:
+
+```
+$ cd test
+$ yarn install
+$ yarn test
+```
+
+If you are testing changes to the Turbolinks source, remember to run `bin/blade build` before each test run.
 
 ---
 

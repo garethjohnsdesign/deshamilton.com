@@ -1,6 +1,14 @@
-language: ruby
-cache: bundler
+dist: trusty
+sudo: false
+cache:
+- bundler
+- yarn
 script: bin/ci
-branches:
-  only:
-    - master
+addons:
+  apt:
+    sources:
+      - sourceline: "deb https://dl.yarnpkg.com/debian/ stable main"
+        key_url: "https://dl.yarnpkg.com/debian/pubkey.gpg"
+    packages:
+      - yarn
+  chrome: stable
