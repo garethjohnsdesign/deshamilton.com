@@ -5,14 +5,14 @@
       <div class="grid-x align-center-middle excerpt__title">
         <div class="small-12 cell text-center text-uppercase">
           <h5 class="margin-bottom-0">{{ project.title }}</h5>
+          {% if project.brand %}
+          <h5 class="margin-bottom-0">{{ project.brand }}</h5>
+          {% endif %}
         </div>
       </div>  
       
       <div class="grid-x align-center-middle excerpt__meta">
         <div class="small-12 cell text-center text-uppercase">
-          {% if project.brand %}
-          <h5 class="margin-bottom-0">{{ project.brand }}</h5>
-          {% endif %}
           {% if project.director %}
           <h5 class="margin-bottom-0">{{ project.director }}</h5>
           {% endif %}
