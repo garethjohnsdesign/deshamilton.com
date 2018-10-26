@@ -1,4 +1,4 @@
-$(document).on('turbolinks:load', function() {
+// $(document).on('turbolinks:load', function() {
 
 // 1. Foundation
 // --------------------
@@ -17,4 +17,4 @@ AOS.init({
 window.addEventListener('load', AOS.refresh);
 
 
-});
+// });
