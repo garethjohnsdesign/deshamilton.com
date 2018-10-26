@@ -3,7 +3,7 @@ title: Des Hamilton Casting
 position: 0
 image: "/assets/img/og-image.png"
 description: "# London and Glasgow-based casting agency working across [film](/films),
-  [television](/television), [commercials](/commercials) and [music videos](/music-videos)."
+  [television](/television) and [music videos](/music-videos)"
 layout: home
 pagination:
   enabled: true
