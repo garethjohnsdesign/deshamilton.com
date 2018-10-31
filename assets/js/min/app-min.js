@@ -6780,10 +6780,10 @@ ignoreKeys:function e(t){c=t},
 // funct: function to fire on change
 // eventType: 'input'|'intent'
 registerOnChange:function e(t,n){r.push({fn:t,type:n||"input"})},unRegisterOnChange:function e(t){var n=O(t);(n||0===n)&&r.splice(n,1)}}}()}
-/******/])}),
+/******/])}),$(document).on("turbolinks:load",function(){
 // 1. Foundation
 // --------------------
 $(document).foundation(),
 // 2. Animate on Scroll
 // --------------------
-AOS.init({offset:64,easing:"ease-in-out-quart",duration:600}),window.addEventListener("load",AOS.refresh);
+$(function(){AOS.init({offset:64,easing:"ease-in-out-quart",duration:600})}),$(function(){window.addEventListener("load",AOS.refresh)})});

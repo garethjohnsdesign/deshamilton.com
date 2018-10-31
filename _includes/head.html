@@ -24,4 +24,14 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   
+  <!-- Scripts -->
+  {% include scripts.html %}
+  <!-- End Scripts -->
+  
+  <!-- Google Analytics -->
+  {% if site.analytics %}
+  {% include analytics.html %}
+  {% endif %}
+  <!-- End Google Analytics -->
+
 </head>
