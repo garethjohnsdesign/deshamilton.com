@@ -209,6 +209,13 @@
 		"oAP": "/_commercials/three-pigs-guardian.markdown",
 		"oF": 0
 		},
+	"/_commercials/use-your-vote-levis.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_commercials/use-your-vote-levis.markdown",
+		"oF": 0
+		},
 	"/_commercials/you-are-football-barclays.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2275,6 +2282,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/use-your-vote.jpg": {
+		"ft": 16384,
+		"iS": 619041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/use-your-vote.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/valhalla-rising-01.jpg": {
