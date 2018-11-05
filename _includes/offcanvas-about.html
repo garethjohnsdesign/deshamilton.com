@@ -1,6 +1,6 @@
 {% for entry in site.data.navigation.about %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 <!-- Navigation -->
-<div class="grid-y align-center" style="height: 100%;">
+<div class="grid-y align-center height-100">
   
   <div class="shrink cell">
     <ul class="menu vertical align-center">
@@ -13,15 +13,15 @@
       {% assign sublinks = entry.sublinks %}
       {% if sublinks %}
       <li{{ current }}>
-      <a href="{{ site.baseurl }}{{ entry.url }}" class="h3">{{ entry.title }}</a>
+      <a href="{{ site.baseurl }}{{ entry.url }}" class="h4">{{ entry.title }}</a>
       <ul class="menu vertical">
       {% for sublink in sublinks %}
-      <li><a href="{{ site.baseurl }}{{ sublink.url }}" class="h3">{{ sublink.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ sublink.url }}" class="h4">{{ sublink.title }}</a></li>
       {% endfor %}
       </ul>
       </li>
       {% else %}
-      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="h3 text-uppercase margin-bottom-2">{{ entry.title }}</a></li>
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="h4 text-uppercase margin-bottom-2">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
     </ul>

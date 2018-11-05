@@ -3,11 +3,11 @@ title: Contact
 position: 6
 details:
 - title: Actor Enquiries
-  text: "[info@deshamilton.com](mailto:info@deshamilton.com)"
+  text: "[office@deshamilton.comm](mailto:office@deshamilton.com)"
 - title: Commercial / Film Enquiries
   text: "Elan Jones  \n[elan@deshamilton.com](mailto:elan@deshamilton.com)"
 - title: Location
-  text: 17F Clerkenwell Rd, Clerkenwell, London EC1M 5RD — [Map](https://goo.gl/maps/8yHmBGxQbfS2)
+  text: 17D Clerkenwell Rd, Clerkenwell, London EC1M 5RD — [Map](https://goo.gl/maps/8yHmBGxQbfS2)
 - title: Follow Us
   text: "[Instagram](https://www.instagram.com/deshamiltoncasting), [Twitter](https://twitter.com/DesHCasting),
     [Vimeo](https://vimeo.com/user87665132)"
@@ -21,7 +21,7 @@ details:
 - title: Legal
   text: "[Terms & Conditions](/terms), [Privacy Policy](/privacy)"
 - title: Site
-  text: "[Gareth Johns Design + Direction](https://www.garethjohnsdesign.com)"
+  text: "[Gareth Johns Design + Development](https://www.garethjohnsdesign.com)"
 layout: contact
 ---
 
