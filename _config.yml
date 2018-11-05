@@ -24,7 +24,8 @@ collections:
     title: Uploads
     output: false
 url: https://www.deshamilton.com
-description: London and Glasgow-based casting agency working across film, television and music videos
+description: London and Glasgow-based casting agency working across film, television
+  and music videos
 permalink: pretty
 exclude:
 - bower.json
