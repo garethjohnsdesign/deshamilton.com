@@ -30,7 +30,7 @@ layout: default
 
 <div class="grid-x grid-padding-x">
   <div class="small-12 cell">
-  {% assign in-production = site.in-production %}
+  {% assign in-production = site.in-production | sort: 'position' %}
   {% for project in in-production %}
      <div class="margin-bottom-2">
       <h4 class="secondary-font">{{ project.title }}</h4>
