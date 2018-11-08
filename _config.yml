@@ -24,8 +24,8 @@ collections:
     title: Uploads
     output: false
 url: https://www.deshamilton.com
-description: London and Glasgow-based casting agency working across film, television
-  and music videos
+description: London and Glasgow based casting company working across film, television,
+  commercials and music videos
 permalink: pretty
 exclude:
 - bower.json
@@ -51,7 +51,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-colophon: http://garethjohnsdesign.com
+colophon: https://www.garethjohnsdesign.com
 company: Des Hamilton Casting
 email: info@deshamilton.com
 analytics: UA-128513107-1
