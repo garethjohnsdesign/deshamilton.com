@@ -1,6 +1,6 @@
 ---
 title: Amsterdam
-position: 8
+position: 9
 director: Tara Fitzgerald
 ---
 
