@@ -23,6 +23,22 @@ collections:
   uploads:
     title: Uploads
     output: false
+defaults:
+- scope:
+    path: ''
+    type: films
+  values:
+    image: 
+    director: 
+    with: 
+    imdb: 
+    video: 
+    layout: project
+- scope:
+    path: ''
+    type: pages
+  values:
+    description: 
 url: https://www.deshamilton.com
 description: London and Glasgow based casting company working across film, television,
   commercials and music videos
