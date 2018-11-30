@@ -7,6 +7,5 @@ with: Jodie Whittaker, Lorraine Ashbourne, Brett Goldstein
 imdb: https://www.imdb.com/title/tt4211044/
 video: 281611147
 layout: project
-is-in-production: 
 ---
 
