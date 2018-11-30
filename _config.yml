@@ -28,11 +28,11 @@ defaults:
     path: ''
     type: films
   values:
-    image:
-    director:
-    with:
-    imdb:
-    video:
+    image: 
+    director: 
+    with: 
+    imdb: 
+    video: 
     layout: project
 - scope:
     path: ''
