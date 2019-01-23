@@ -3,7 +3,7 @@ title: Contact
 position: 6
 details:
 - title: Actor Enquiries
-  text: "[office@deshamilton.comm](mailto:office@deshamilton.com)"
+  text: "[office@deshamilton.com](mailto:office@deshamilton.com)"
 - title: Commercial / Film Enquiries
   text: "Elan Jones  \n[elan@deshamilton.com](mailto:elan@deshamilton.com)"
 - title: Location
