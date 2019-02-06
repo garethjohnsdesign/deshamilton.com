@@ -1,6 +1,6 @@
 ---
 title: High Life
-date: 2018-11-07 00:00:00 Z
+date: 2019-01-30 00:00:00 Z
 tags:
 - home
 image: "/uploads/high-life.jpg"
