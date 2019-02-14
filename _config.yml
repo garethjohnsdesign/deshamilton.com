@@ -39,9 +39,9 @@ defaults:
     type: commercials
   values:
     image: 
-    brand:
-    agency:
-    production-company:
+    brand: 
+    agency: 
+    production-company: 
     director: 
     with: 
     imdb: 
