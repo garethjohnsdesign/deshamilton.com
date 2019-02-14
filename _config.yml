@@ -36,6 +36,19 @@ defaults:
     layout: project
 - scope:
     path: ''
+    type: commercials
+  values:
+    image: 
+    brand:
+    agency:
+    production-company:
+    director: 
+    with: 
+    imdb: 
+    video: 
+    layout: project
+- scope:
+    path: ''
     type: pages
   values:
     description: 

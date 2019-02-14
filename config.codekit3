@@ -181,6 +181,13 @@
 		"oAP": "/_commercials/the-long-wait.markdown",
 		"oF": 0
 		},
+	"/_commercials/the-purse-guinness.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_commercials/the-purse-guinness.markdown",
+		"oF": 0
+		},
 	"/_commercials/the-shit-kids-say-nspcc.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -459,6 +466,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_films/valhalla-rising.markdown",
+		"oF": 0
+		},
+	"/_films/wale.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_films/wale.markdown",
 		"oF": 0
 		},
 	"/_films/war-machine.markdown": {
@@ -1503,6 +1517,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/guinness-the-purse-8ab07d.jpg": {
+		"ft": 16384,
+		"iS": 2927642,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/guinness-the-purse-8ab07d.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/guinness-the-purse.jpg": {
+		"ft": 16384,
+		"iS": 2927642,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/guinness-the-purse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/gunpowder-01.jpg": {
 		"ft": 16384,
 		"iS": 357347,
@@ -2345,6 +2381,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/valhalla-rising-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/wale.jpg": {
+		"ft": 16384,
+		"iS": 636759,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/wale.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
