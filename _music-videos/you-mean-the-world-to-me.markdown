@@ -9,7 +9,7 @@ tags:
 image: "/uploads/freya-ridings-maisie-williams-music-video.jpg"
 artist: Freya Ridings
 production-company: 
-director: Lena Headey Test
+director: Lena Headey
 video: https://vimeo.com/334857531
 ---
 
