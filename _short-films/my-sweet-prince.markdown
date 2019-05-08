@@ -5,7 +5,7 @@ image: "/uploads/my-sweet-prince-jason-bradbury.jpg"
 director: Jason Bradbury
 with: Yoni Roodner, Aoife Checkland, Jacob Avery
 imdb: https://www.imdb.com/title/tt9916544/
-video: 
-is-in-production: 
+video: 334869197
+layout: project
 ---
 
