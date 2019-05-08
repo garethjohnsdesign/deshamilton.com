@@ -5,6 +5,8 @@ projects:
     url: /commercials/  
   - title: Television
     url: /television/ 
+  - title: Short Films
+    url: /short-films/
   - title: Music Videos
     url: /music-videos/
     
@@ -23,6 +25,8 @@ mobile:
     url: /commercials/  
   - title: Television
     url: /television/ 
+  - title: Short Films
+    url: /short-films/
   - title: Music Videos
     url: /music-videos/
   - title: About
