@@ -7,11 +7,12 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29156",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.gitattributes",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/.gitignore",
 		"oF": 0
@@ -31,6 +33,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/404.md",
 		"oF": 0,
@@ -44,6 +47,7 @@
 	"/_commercials/bus-kfc.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/bus-kfc.markdown",
 		"oF": 0
@@ -51,6 +55,7 @@
 	"/_commercials/chistmas-is-for-sharing-sainsburys.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/chistmas-is-for-sharing-sainsburys.markdown",
 		"oF": 0
@@ -58,6 +63,7 @@
 	"/_commercials/crying-jean-stella-artois.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/crying-jean-stella-artois.markdown",
 		"oF": 0
@@ -65,6 +71,7 @@
 	"/_commercials/david-beckham-bodywear-hm.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/david-beckham-bodywear-hm.markdown",
 		"oF": 0
@@ -72,6 +79,7 @@
 	"/_commercials/endless-possiblities-nike.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/endless-possiblities-nike.markdown",
 		"oF": 0
@@ -79,6 +87,7 @@
 	"/_commercials/everywhere-bridgestone.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/everywhere-bridgestone.markdown",
 		"oF": 0
@@ -86,6 +95,7 @@
 	"/_commercials/free-from-morrisons.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/free-from-morrisons.markdown",
 		"oF": 0
@@ -93,6 +103,7 @@
 	"/_commercials/george-acadomia.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/george-acadomia.markdown",
 		"oF": 0
@@ -100,6 +111,7 @@
 	"/_commercials/gone-alzheimers.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/gone-alzheimers.markdown",
 		"oF": 0
@@ -107,6 +119,7 @@
 	"/_commercials/helpless-st-john-ambulance copy.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/helpless-st-john-ambulance copy.markdown",
 		"oF": 0
@@ -114,6 +127,7 @@
 	"/_commercials/join-the-club-fifa.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/join-the-club-fifa.markdown",
 		"oF": 0
@@ -121,6 +135,7 @@
 	"/_commercials/keep-it-pure-steinlager.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/keep-it-pure-steinlager.markdown",
 		"oF": 0
@@ -128,6 +143,7 @@
 	"/_commercials/king-of-tv-city.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/king-of-tv-city.markdown",
 		"oF": 0
@@ -135,6 +151,7 @@
 	"/_commercials/life-feels-better-when-you-have-a-plan-scottish-widows.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/life-feels-better-when-you-have-a-plan-scottish-widows.markdown",
 		"oF": 0
@@ -142,6 +159,7 @@
 	"/_commercials/moments-of-truth-strongbow.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/moments-of-truth-strongbow.markdown",
 		"oF": 0
@@ -149,6 +167,7 @@
 	"/_commercials/more-than-a-game-fifa.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/more-than-a-game-fifa.markdown",
 		"oF": 0
@@ -156,6 +175,7 @@
 	"/_commercials/one-day-cancer-research.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/one-day-cancer-research.markdown",
 		"oF": 0
@@ -163,6 +183,7 @@
 	"/_commercials/show-them-you-know-them.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/show-them-you-know-them.markdown",
 		"oF": 0
@@ -170,6 +191,7 @@
 	"/_commercials/the-breath-before.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-breath-before.markdown",
 		"oF": 0
@@ -177,6 +199,7 @@
 	"/_commercials/the-long-wait.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-long-wait.markdown",
 		"oF": 0
@@ -184,6 +207,7 @@
 	"/_commercials/the-purse-guinness.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-purse-guinness.markdown",
 		"oF": 0
@@ -191,6 +215,7 @@
 	"/_commercials/the-shit-kids-say-nspcc.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-shit-kids-say-nspcc.markdown",
 		"oF": 0
@@ -198,6 +223,7 @@
 	"/_commercials/the-switch-nike.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-switch-nike.markdown",
 		"oF": 0
@@ -205,6 +231,7 @@
 	"/_commercials/the-world-is-in-play.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/the-world-is-in-play.markdown",
 		"oF": 0
@@ -212,6 +239,7 @@
 	"/_commercials/three-pigs-guardian.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/three-pigs-guardian.markdown",
 		"oF": 0
@@ -219,6 +247,7 @@
 	"/_commercials/use-your-vote-levis.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/use-your-vote-levis.markdown",
 		"oF": 0
@@ -226,6 +255,7 @@
 	"/_commercials/you-are-football-barclays.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/you-are-football-barclays.markdown",
 		"oF": 0
@@ -233,6 +263,7 @@
 	"/_commercials/you-drive-mercedes.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_commercials/you-drive-mercedes.markdown",
 		"oF": 0
@@ -240,6 +271,7 @@
 	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/_config.yml",
 		"oF": 0
@@ -247,6 +279,7 @@
 	"/_data/navigation.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
@@ -254,6 +287,7 @@
 	"/_films/adult-life-skills.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/adult-life-skills.markdown",
 		"oF": 0
@@ -261,6 +295,7 @@
 	"/_films/anthropoid.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/anthropoid.markdown",
 		"oF": 0
@@ -268,6 +303,7 @@
 	"/_films/bridgend.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/bridgend.markdown",
 		"oF": 0
@@ -275,6 +311,7 @@
 	"/_films/brimstone.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/brimstone.markdown",
 		"oF": 0
@@ -282,6 +319,7 @@
 	"/_films/bronson.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/bronson.markdown",
 		"oF": 0
@@ -289,6 +327,7 @@
 	"/_films/bullet-boy.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/bullet-boy.markdown",
 		"oF": 0
@@ -296,6 +335,7 @@
 	"/_films/dear-frankie.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/dear-frankie.markdown",
 		"oF": 0
@@ -303,6 +343,7 @@
 	"/_films/enter-the-void.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/enter-the-void.markdown",
 		"oF": 0
@@ -310,6 +351,7 @@
 	"/_films/flashbacks-of-a-fool.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/flashbacks-of-a-fool.markdown",
 		"oF": 0
@@ -317,6 +359,7 @@
 	"/_films/four-lions.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/four-lions.markdown",
 		"oF": 0
@@ -324,6 +367,7 @@
 	"/_films/gainsbourg.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/gainsbourg.markdown",
 		"oF": 0
@@ -331,6 +375,7 @@
 	"/_films/green-street.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/green-street.markdown",
 		"oF": 0
@@ -338,6 +383,7 @@
 	"/_films/hallam-foe.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/hallam-foe.markdown",
 		"oF": 0
@@ -345,6 +391,7 @@
 	"/_films/high-life.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/high-life.markdown",
 		"oF": 0
@@ -352,6 +399,7 @@
 	"/_films/hyena.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/hyena.markdown",
 		"oF": 0
@@ -359,6 +407,7 @@
 	"/_films/kon-tiki.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/kon-tiki.markdown",
 		"oF": 0
@@ -366,6 +415,7 @@
 	"/_films/melancholia.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/melancholia.markdown",
 		"oF": 0
@@ -373,6 +423,7 @@
 	"/_films/movern-callar.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/movern-callar.markdown",
 		"oF": 0
@@ -380,6 +431,7 @@
 	"/_films/only-god-forgives.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/only-god-forgives.markdown",
 		"oF": 0
@@ -387,6 +439,7 @@
 	"/_films/outcast.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/outcast.markdown",
 		"oF": 0
@@ -394,6 +447,7 @@
 	"/_films/red-road.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/red-road.markdown",
 		"oF": 0
@@ -401,6 +455,7 @@
 	"/_films/the-childhood-of-a-leader.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-childhood-of-a-leader.markdown",
 		"oF": 0
@@ -408,6 +463,7 @@
 	"/_films/the-decoy-bride.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-decoy-bride.markdown",
 		"oF": 0
@@ -415,6 +471,7 @@
 	"/_films/the-eagle.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-eagle.markdown",
 		"oF": 0
@@ -422,6 +479,7 @@
 	"/_films/the-firm.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-firm.markdown",
 		"oF": 0
@@ -429,6 +487,7 @@
 	"/_films/the-house-that-jack-built.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-house-that-jack-built.markdown",
 		"oF": 0
@@ -436,6 +495,7 @@
 	"/_films/the-swimmer.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/the-swimmer.markdown",
 		"oF": 0
@@ -443,6 +503,7 @@
 	"/_films/this-is-england.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/this-is-england.markdown",
 		"oF": 0
@@ -450,6 +511,7 @@
 	"/_films/two-for-joy.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/two-for-joy.markdown",
 		"oF": 0
@@ -457,6 +519,7 @@
 	"/_films/tyrannosaur.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/tyrannosaur.markdown",
 		"oF": 0
@@ -464,6 +527,7 @@
 	"/_films/valhalla-rising.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/valhalla-rising.markdown",
 		"oF": 0
@@ -471,6 +535,7 @@
 	"/_films/wale.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/wale.markdown",
 		"oF": 0
@@ -478,6 +543,7 @@
 	"/_films/war-machine.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/war-machine.markdown",
 		"oF": 0
@@ -485,6 +551,7 @@
 	"/_films/wasp.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/wasp.markdown",
 		"oF": 0
@@ -492,6 +559,7 @@
 	"/_films/when-the-lights-went-out.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/when-the-lights-went-out.markdown",
 		"oF": 0
@@ -499,6 +567,7 @@
 	"/_films/wilbur-wants-to-kill-himself.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/wilbur-wants-to-kill-himself.markdown",
 		"oF": 0
@@ -506,6 +575,7 @@
 	"/_films/wuthering-heights.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/wuthering-heights.markdown",
 		"oF": 0
@@ -513,6 +583,7 @@
 	"/_films/young-adam.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_films/young-adam.markdown",
 		"oF": 0
@@ -520,20 +591,23 @@
 	"/_in-production/amsterdam.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/amsterdam.markdown",
 		"oF": 0
 		},
-	"/_in-production/borderland.markdown": {
+	"/_in-production/cold-courage.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
-		"oAP": "/_in-production/borderland.markdown",
+		"oAP": "/_in-production/cold-courage.markdown",
 		"oF": 0
 		},
 	"/_in-production/intrigo.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/intrigo.markdown",
 		"oF": 0
@@ -541,6 +615,7 @@
 	"/_in-production/jojo-rabbit.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/jojo-rabbit.markdown",
 		"oF": 0
@@ -548,27 +623,55 @@
 	"/_in-production/looted.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/looted.markdown",
 		"oF": 0
 		},
-	"/_in-production/the-crucifixion.markdown": {
+	"/_in-production/normal-people.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
-		"oAP": "/_in-production/the-crucifixion.markdown",
+		"oAP": "/_in-production/normal-people.markdown",
+		"oF": 0
+		},
+	"/_in-production/our-man-in-america.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_in-production/our-man-in-america.markdown",
+		"oF": 0
+		},
+	"/_in-production/the-children.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_in-production/the-children.markdown",
 		"oF": 0
 		},
 	"/_in-production/the-king.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/the-king.markdown",
+		"oF": 0
+		},
+	"/_in-production/the-mouse.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_in-production/the-mouse.markdown",
 		"oF": 0
 		},
 	"/_in-production/the-statistical-probability-of-love-at-first-sight.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/the-statistical-probability-of-love-at-first-sight.markdown",
 		"oF": 0
@@ -576,6 +679,7 @@
 	"/_in-production/the-true-history-of-the-kelly-gang.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/the-true-history-of-the-kelly-gang.markdown",
 		"oF": 0
@@ -583,6 +687,7 @@
 	"/_in-production/top-boy-three.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_in-production/top-boy-three.markdown",
 		"oF": 0
@@ -590,6 +695,7 @@
 	"/_includes/analytics.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/_includes/analytics.html",
 		"oF": 0
@@ -597,6 +703,7 @@
 	"/_includes/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/excerpt.html",
 		"oF": 0
@@ -604,6 +711,7 @@
 	"/_includes/footer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/footer.html",
 		"oF": 0
@@ -611,6 +719,7 @@
 	"/_includes/head.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/head.html",
 		"oF": 0
@@ -618,6 +727,7 @@
 	"/_includes/images/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/images/excerpt.html",
 		"oF": 0
@@ -625,6 +735,7 @@
 	"/_includes/navigation.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/navigation.html",
 		"oF": 0
@@ -632,6 +743,7 @@
 	"/_includes/offcanvas-about.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/offcanvas-about.html",
 		"oF": 0
@@ -639,6 +751,7 @@
 	"/_includes/offcanvas-mobile.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/offcanvas-mobile.html",
 		"oF": 0
@@ -646,6 +759,7 @@
 	"/_includes/offcanvas-projects.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/offcanvas-projects.html",
 		"oF": 0
@@ -653,6 +767,7 @@
 	"/_includes/scripts.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/_includes/scripts.html",
 		"oF": 0
@@ -660,6 +775,7 @@
 	"/_includes/subscribe.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/subscribe.html",
 		"oF": 0
@@ -667,6 +783,7 @@
 	"/_layouts/about.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/about.html",
 		"oF": 0
@@ -674,6 +791,7 @@
 	"/_layouts/compress.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/compress.html",
 		"oF": 0
@@ -681,6 +799,7 @@
 	"/_layouts/contact.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/contact.html",
 		"oF": 0
@@ -688,6 +807,7 @@
 	"/_layouts/cv.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/cv.html",
 		"oF": 0
@@ -695,6 +815,7 @@
 	"/_layouts/default.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/_layouts/default.html",
 		"oF": 0
@@ -702,6 +823,7 @@
 	"/_layouts/home.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/home.html",
 		"oF": 0
@@ -709,6 +831,7 @@
 	"/_layouts/missing.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/missing.html",
 		"oF": 0
@@ -716,6 +839,7 @@
 	"/_layouts/page.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/page.html",
 		"oF": 0
@@ -723,6 +847,7 @@
 	"/_layouts/project.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/project.html",
 		"oF": 0
@@ -730,6 +855,7 @@
 	"/_layouts/projects.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/projects.html",
 		"oF": 0
@@ -737,6 +863,7 @@
 	"/_music-videos/bad-girls-mia.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/bad-girls-mia.markdown",
 		"oF": 0
@@ -744,6 +871,7 @@
 	"/_music-videos/black-and-white-town-doves.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/black-and-white-town-doves.markdown",
 		"oF": 0
@@ -751,6 +879,7 @@
 	"/_music-videos/live-with-me-massive-attack.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/live-with-me-massive-attack.markdown",
 		"oF": 0
@@ -758,6 +887,7 @@
 	"/_music-videos/lose-control-herve.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/lose-control-herve.markdown",
 		"oF": 0
@@ -765,6 +895,7 @@
 	"/_music-videos/police-dog-hogan.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/police-dog-hogan.markdown",
 		"oF": 0
@@ -772,8 +903,17 @@
 	"/_music-videos/the-conversation-texas.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_music-videos/the-conversation-texas.markdown",
+		"oF": 0
+		},
+	"/_music-videos/you-mean-the-world-to-me.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_music-videos/you-mean-the-world-to-me.markdown",
 		"oF": 0
 		},
 	"/_site": {
@@ -785,6 +925,7 @@
 	"/_television/fallout.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/fallout.markdown",
 		"oF": 0
@@ -792,6 +933,7 @@
 	"/_television/glue.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/glue.markdown",
 		"oF": 0
@@ -799,6 +941,7 @@
 	"/_television/gunpowder.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/gunpowder.markdown",
 		"oF": 0
@@ -806,6 +949,7 @@
 	"/_television/privado.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/privado.markdown",
 		"oF": 0
@@ -813,6 +957,7 @@
 	"/_television/the-book-group.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/the-book-group.markdown",
 		"oF": 0
@@ -820,6 +965,7 @@
 	"/_television/top-boy.markdown": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/_television/top-boy.markdown",
 		"oF": 0
@@ -1394,6 +1540,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/freya-ridings-music-video.jpg": {
+		"ft": 16384,
+		"iS": 99381,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/freya-ridings-music-video.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/gainsbourg-01.jpg": {
@@ -2595,6 +2752,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/you-mean-the-world-to-me.jpg": {
+		"ft": 16384,
+		"iS": 77057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/you-mean-the-world-to-me.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/young-adam.jpg": {
 		"ft": 16384,
 		"iS": 1685783,
@@ -2614,6 +2782,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/about.md",
 		"oF": 0,
@@ -2637,6 +2806,7 @@
 	"/assets/css/app.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/css/app.css.map",
 		"oF": 0
@@ -2677,6 +2847,7 @@
 	"/assets/favicons/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/favicons/browserconfig.xml",
 		"oF": 0
@@ -2706,6 +2877,7 @@
 	"/assets/favicons/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/favicons/favicon.ico",
 		"oF": 0
@@ -2778,6 +2950,7 @@
 	"/assets/favicons/site.webmanifest": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
@@ -2785,6 +2958,7 @@
 	"/assets/fonts/basis-grotesque-mono.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-mono.ttf",
 		"oF": 0
@@ -2792,6 +2966,7 @@
 	"/assets/fonts/basis-grotesque-mono.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-mono.woff",
 		"oF": 0
@@ -2799,6 +2974,7 @@
 	"/assets/fonts/basis-grotesque-mono.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-mono.woff2",
 		"oF": 0
@@ -2806,6 +2982,7 @@
 	"/assets/fonts/basis-grotesque-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-regular.ttf",
 		"oF": 0
@@ -2813,6 +2990,7 @@
 	"/assets/fonts/basis-grotesque-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-regular.woff",
 		"oF": 0
@@ -2820,6 +2998,7 @@
 	"/assets/fonts/basis-grotesque-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/basis-grotesque-regular.woff2",
 		"oF": 0
@@ -2827,6 +3006,7 @@
 	"/assets/fonts/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/gallery.woff",
 		"oF": 0
@@ -2834,6 +3014,7 @@
 	"/assets/fonts/gallery.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
@@ -2870,6 +3051,7 @@
 		"q": 100
 		},
 	"/assets/js/app.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2880,6 +3062,7 @@
 		"tS": 0
 		},
 	"/assets/js/links.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2890,6 +3073,7 @@
 		"tS": 0
 		},
 	"/assets/js/min/app-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2900,6 +3084,7 @@
 		"tS": 0
 		},
 	"/assets/js/min/links-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2910,6 +3095,7 @@
 		"tS": 0
 		},
 	"/assets/js/min/svgxuse-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -2920,6 +3106,7 @@
 		"tS": 0
 		},
 	"/assets/js/svgxuse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3452,6 +3639,7 @@
 	"/assets/videos/only-god-forgives-edit.mp4": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/assets/videos/only-god-forgives-edit.mp4",
 		"oF": 0
@@ -3488,6 +3676,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/CHANGELOG.md",
 		"oF": 0,
@@ -3506,6 +3695,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/CONTRIBUTING.md",
 		"oF": 0,
@@ -3519,6 +3709,7 @@
 	"/bower_components/aos/demo/async.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/demo/async.html",
 		"oF": 0
@@ -3536,6 +3727,7 @@
 	"/bower_components/aos/demo/simple.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/demo/simple.html",
 		"oF": 0
@@ -3551,6 +3743,7 @@
 		"oS": 0
 		},
 	"/bower_components/aos/dist/aos.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3561,6 +3754,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/karma.conf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3573,11 +3767,13 @@
 	"/bower_components/aos/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/LICENSE",
 		"oF": 0
 		},
 	"/bower_components/aos/postcss.config.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3595,6 +3791,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/README.md",
 		"oF": 0,
@@ -3606,6 +3803,7 @@
 		"uCM": 0
 		},
 	"/bower_components/aos/src/js/aos.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3616,6 +3814,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/helpers/calculateOffset.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3626,6 +3825,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/helpers/detector.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3636,6 +3836,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/helpers/elements.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3646,6 +3847,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/helpers/handleScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3656,6 +3858,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/helpers/prepare.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3666,6 +3869,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/libs/observer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3676,6 +3880,7 @@
 		"tS": 0
 		},
 	"/bower_components/aos/src/js/libs/offset.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3738,6 +3943,7 @@
 		"uL": 1
 		},
 	"/bower_components/aos/webpack.config.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -3750,6 +3956,7 @@
 	"/bower_components/aos/yarn.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/aos/yarn.lock",
 		"oF": 0
@@ -3765,6 +3972,7 @@
 	"/bower_components/foundation-sites/.bowerrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.bowerrc",
 		"oF": 0
@@ -3772,6 +3980,7 @@
 	"/bower_components/foundation-sites/.eslintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.eslintrc",
 		"oF": 0
@@ -3784,6 +3993,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.github/ISSUE_TEMPLATE.md",
 		"oF": 0,
@@ -3802,6 +4012,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.github/PULL_REQUEST_TEMPLATE.md",
 		"oF": 0,
@@ -3815,6 +4026,7 @@
 	"/bower_components/foundation-sites/.sass-lint.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.sass-lint.yml",
 		"oF": 0
@@ -3822,6 +4034,7 @@
 	"/bower_components/foundation-sites/.travis.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/.travis.yml",
 		"oF": 0
@@ -4058,6 +4271,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/code-of-conduct.md",
 		"oF": 0,
@@ -4079,6 +4293,7 @@
 	"/bower_components/foundation-sites/customizer/config.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/customizer/config.yml",
 		"oF": 0
@@ -4094,6 +4309,7 @@
 	"/bower_components/foundation-sites/customizer/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/customizer/index.html",
 		"oF": 0
@@ -4193,6 +4409,7 @@
 		"tEC": 0
 		},
 	"/bower_components/foundation-sites/dist/js/foundation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4203,6 +4420,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/foundation.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4213,6 +4431,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/npm.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4223,6 +4442,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4233,6 +4453,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.abide.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4243,6 +4464,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4253,6 +4475,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.accordion.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4263,6 +4486,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4273,6 +4497,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.accordionMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4283,6 +4508,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4293,6 +4519,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.core.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4303,6 +4530,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4313,6 +4541,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.drilldown.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4323,6 +4552,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4333,6 +4563,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.dropdown.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4343,6 +4574,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4353,6 +4585,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.dropdownMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4363,6 +4596,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4373,6 +4607,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4383,6 +4618,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4393,6 +4629,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.interchange.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4403,6 +4640,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4413,6 +4651,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.magellan.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4423,6 +4662,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4433,6 +4673,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.offcanvas.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4443,6 +4684,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4453,6 +4695,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.orbit.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4463,6 +4706,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4473,6 +4717,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4483,6 +4728,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4493,6 +4739,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveMenu.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4503,6 +4750,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4513,6 +4761,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.responsiveToggle.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4523,6 +4772,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4533,6 +4783,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.reveal.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4543,6 +4794,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4553,6 +4805,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.slider.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4563,6 +4816,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4573,6 +4827,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4583,6 +4838,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4593,6 +4849,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.sticky.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4603,6 +4860,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4613,6 +4871,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.tabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4623,6 +4882,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4633,6 +4893,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.toggler.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4643,6 +4904,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4653,6 +4915,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4663,6 +4926,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4673,6 +4937,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.box.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4683,6 +4948,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4693,6 +4959,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.imageLoader.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4703,6 +4970,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4713,6 +4981,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.keyboard.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4723,6 +4992,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4733,6 +5003,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4743,6 +5014,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4753,6 +5025,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.motion.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4763,6 +5036,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4773,6 +5047,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.nest.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4783,6 +5058,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4793,6 +5069,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.timer.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4803,6 +5080,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.timerAndImageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4813,6 +5091,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.timerAndImageLoader.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4823,6 +5102,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4833,6 +5113,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.touch.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4843,6 +5124,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4853,6 +5135,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.util.triggers.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4863,6 +5146,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4873,6 +5157,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4885,11 +5170,13 @@
 	"/bower_components/foundation-sites/docslink.sh": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/docslink.sh",
 		"oF": 0
 		},
 	"/bower_components/foundation-sites/js/entries/foundation-plugins.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4900,6 +5187,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/foundation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4910,6 +5198,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4920,6 +5209,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4930,6 +5220,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4940,6 +5231,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4950,6 +5242,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4960,6 +5253,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4970,6 +5264,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4980,6 +5275,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -4990,6 +5286,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5000,6 +5297,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5010,6 +5308,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5020,6 +5319,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5030,6 +5330,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5040,6 +5341,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5050,6 +5352,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5060,6 +5363,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5070,6 +5374,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5080,6 +5385,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5090,6 +5396,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5100,6 +5407,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5110,6 +5418,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5120,6 +5429,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5130,6 +5440,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5140,6 +5451,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5150,6 +5462,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5160,6 +5473,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5170,6 +5484,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5180,6 +5495,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5190,6 +5506,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5200,6 +5517,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5210,6 +5528,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/entries/plugins/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5220,6 +5539,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.abide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5230,6 +5550,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.accordion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5240,6 +5561,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.accordionMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5250,6 +5572,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5260,6 +5583,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.drilldown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5270,6 +5594,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5280,6 +5605,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.dropdownMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5290,6 +5616,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.equalizer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5300,6 +5627,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.interchange.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5310,6 +5638,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.magellan.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5320,6 +5649,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.offcanvas.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5330,6 +5660,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.orbit.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5340,6 +5671,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.plugin.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5350,6 +5682,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.positionable.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5360,6 +5693,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.responsiveAccordionTabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5370,6 +5704,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.responsiveMenu.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5380,6 +5715,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.responsiveToggle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5390,6 +5726,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.reveal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5400,6 +5737,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.slider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5410,6 +5748,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.smoothScroll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5420,6 +5759,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.sticky.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5430,6 +5770,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.tabs.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5440,6 +5781,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.toggler.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5450,6 +5792,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5460,6 +5803,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.box.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5470,6 +5814,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5480,6 +5825,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.imageLoader.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5490,6 +5836,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.keyboard.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5500,6 +5847,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.mediaQuery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5510,6 +5858,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.motion.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5520,6 +5869,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.nest.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5530,6 +5880,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.timer.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5540,6 +5891,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.touch.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5550,6 +5902,7 @@
 		"tS": 0
 		},
 	"/bower_components/foundation-sites/js/foundation.util.triggers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -5562,6 +5915,7 @@
 	"/bower_components/foundation-sites/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/LICENSE",
 		"oF": 0
@@ -5582,6 +5936,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/README.md",
 		"oF": 0,
@@ -6958,6 +7313,7 @@
 		"uL": 1
 		},
 	"/bower_components/foundation-sites/webpack.config.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -6978,6 +7334,7 @@
 	"/bower_components/jquery/AUTHORS.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/AUTHORS.txt",
 		"oF": 0
@@ -6991,6 +7348,7 @@
 		"oS": 1
 		},
 	"/bower_components/jquery/dist/core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7001,16 +7359,18 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/dist/jquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/jquery/dist/jquery.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"/bower_components/jquery/dist/jquery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7023,11 +7383,13 @@
 	"/bower_components/jquery/dist/jquery.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/dist/jquery.min.map",
 		"oF": 0
 		},
 	"/bower_components/jquery/dist/jquery.slim.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7038,6 +7400,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/dist/jquery.slim.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7050,11 +7413,13 @@
 	"/bower_components/jquery/dist/jquery.slim.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/dist/jquery.slim.min.map",
 		"oF": 0
 		},
 	"/bower_components/jquery/external/sizzle/dist/sizzle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7065,6 +7430,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/external/sizzle/dist/sizzle.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7077,6 +7443,7 @@
 	"/bower_components/jquery/external/sizzle/dist/sizzle.min.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/external/sizzle/dist/sizzle.min.map",
 		"oF": 0
@@ -7084,6 +7451,7 @@
 	"/bower_components/jquery/external/sizzle/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/external/sizzle/LICENSE.txt",
 		"oF": 0
@@ -7091,6 +7459,7 @@
 	"/bower_components/jquery/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/LICENSE.txt",
 		"oF": 0
@@ -7103,6 +7472,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/README.md",
 		"oF": 0,
@@ -7122,6 +7492,7 @@
 		"oS": 1
 		},
 	"/bower_components/jquery/src/ajax.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7132,6 +7503,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/jsonp.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7142,6 +7514,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/load.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7152,6 +7525,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/parseXML.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7162,6 +7536,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/script.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7172,6 +7547,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/var/location.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7182,6 +7558,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/var/nonce.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7192,6 +7569,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/var/rquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7202,6 +7580,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/ajax/xhr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7212,6 +7591,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7222,6 +7602,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes/attr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7232,6 +7613,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes/classes.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7242,6 +7624,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes/prop.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7252,6 +7635,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7262,6 +7646,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/attributes/val.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7272,6 +7657,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/callbacks.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7282,6 +7668,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7292,6 +7679,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/access.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7302,6 +7690,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/camelCase.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7312,6 +7701,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/DOMEval.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7322,6 +7712,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/init.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7332,6 +7723,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/nodeName.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7342,6 +7734,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/parseHTML.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7352,6 +7745,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/ready-no-deferred.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7362,6 +7756,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/ready.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7372,6 +7767,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/readyException.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7382,6 +7778,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/stripAndCollapse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7392,6 +7789,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7402,6 +7800,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/toType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7412,6 +7811,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/core/var/rsingleTag.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7422,6 +7822,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7432,6 +7833,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/addGetHookIf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7442,6 +7844,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/adjustCSS.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7452,6 +7855,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/curCSS.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7462,6 +7866,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/hiddenVisibleSelectors.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7472,6 +7877,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/showHide.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7482,6 +7888,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7492,6 +7899,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/cssExpand.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7502,6 +7910,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/getStyles.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7512,6 +7921,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/isHiddenWithinTree.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7522,6 +7932,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/rboxStyle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7532,6 +7943,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/rnumnonpx.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7542,6 +7954,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/css/var/swap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7552,6 +7965,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/data.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7562,6 +7976,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/data/Data.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7572,6 +7987,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/data/var/acceptData.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7582,6 +7998,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/data/var/dataPriv.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7592,6 +8009,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/data/var/dataUser.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7602,6 +8020,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/deferred.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7612,6 +8031,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/deferred/exceptionHook.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7622,6 +8042,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/deprecated.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7632,6 +8053,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/dimensions.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7642,6 +8064,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/effects.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7652,6 +8075,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/effects/animatedSelector.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7662,6 +8086,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/effects/Tween.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7672,6 +8097,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7682,6 +8108,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event/ajax.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7692,6 +8119,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event/alias.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7702,6 +8130,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event/focusin.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7712,6 +8141,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7722,6 +8152,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/event/trigger.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7732,6 +8163,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/exports/amd.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7742,6 +8174,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/exports/global.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7752,6 +8185,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/jquery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7762,6 +8196,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7772,6 +8207,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/_evalUrl.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7782,6 +8218,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/buildFragment.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7792,6 +8229,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/getAll.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7802,6 +8240,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/setGlobalEval.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7812,6 +8251,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7822,6 +8262,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/var/rcheckableType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7832,6 +8273,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/var/rscriptType.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7842,6 +8284,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/var/rtagName.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7852,6 +8295,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/manipulation/wrapMap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7862,6 +8306,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/offset.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7872,6 +8317,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/queue.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7882,6 +8328,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/queue/delay.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7892,6 +8339,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/selector-native.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7902,6 +8350,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/selector-sizzle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7912,6 +8361,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/selector.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7922,6 +8372,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/serialize.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7932,6 +8383,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/traversing.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7942,6 +8394,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/traversing/findFilter.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7952,6 +8405,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/traversing/var/dir.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7962,6 +8416,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/traversing/var/rneedsContext.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7972,6 +8427,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/traversing/var/siblings.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7982,6 +8438,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/arr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -7992,6 +8449,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/class2type.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8002,6 +8460,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/concat.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8012,6 +8471,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/document.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8022,6 +8482,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/documentElement.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8032,6 +8493,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/fnToString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8042,6 +8504,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/getProto.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8052,6 +8515,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/hasOwn.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8062,6 +8526,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/indexOf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8072,6 +8537,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/isFunction.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8082,6 +8548,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/isWindow.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8092,6 +8559,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/ObjectFunctionString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8102,6 +8570,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/pnum.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8112,6 +8581,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/push.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8122,6 +8592,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/rcssNum.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8132,6 +8603,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/rnothtmlwhite.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8142,6 +8614,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/slice.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8152,6 +8625,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/support.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8162,6 +8636,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/var/toString.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8172,6 +8647,7 @@
 		"tS": 0
 		},
 	"/bower_components/jquery/src/wrap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8192,6 +8668,7 @@
 	"/bower_components/lightgallery/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.editorconfig",
 		"oF": 0
@@ -8199,6 +8676,7 @@
 	"/bower_components/lightgallery/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.gitattributes",
 		"oF": 0
@@ -8206,6 +8684,7 @@
 	"/bower_components/lightgallery/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.gitignore",
 		"oF": 0
@@ -8213,6 +8692,7 @@
 	"/bower_components/lightgallery/.jscsrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.jscsrc",
 		"oF": 0
@@ -8220,6 +8700,7 @@
 	"/bower_components/lightgallery/.jshintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.jshintrc",
 		"oF": 0
@@ -8227,6 +8708,7 @@
 	"/bower_components/lightgallery/.travis.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/.travis.yml",
 		"oF": 0
@@ -8247,6 +8729,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/contributing.md",
 		"oF": 0,
@@ -8480,6 +8963,7 @@
 	"/bower_components/lightgallery/demo/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/demo/index.html",
 		"oF": 0
@@ -8547,6 +9031,7 @@
 	"/bower_components/lightgallery/dist/fonts/lg.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/dist/fonts/lg.eot",
 		"oF": 0
@@ -8564,6 +9049,7 @@
 	"/bower_components/lightgallery/dist/fonts/lg.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/dist/fonts/lg.ttf",
 		"oF": 0
@@ -8571,6 +9057,7 @@
 	"/bower_components/lightgallery/dist/fonts/lg.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/dist/fonts/lg.woff",
 		"oF": 0
@@ -8617,6 +9104,7 @@
 		"q": 100
 		},
 	"/bower_components/lightgallery/dist/js/lightgallery-all.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8627,6 +9115,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/dist/js/lightgallery-all.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8637,6 +9126,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/dist/js/lightgallery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8647,6 +9137,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/dist/js/lightgallery.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8657,6 +9148,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/Gruntfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8667,6 +9159,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/lib/jquery.mousewheel.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8688,6 +9181,7 @@
 		"q": 100
 		},
 	"/bower_components/lightgallery/lib/picturefill.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8705,6 +9199,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/LICENSE.md",
 		"oF": 0,
@@ -8724,6 +9219,7 @@
 		"oS": 1
 		},
 	"/bower_components/lightgallery/modules/lg-autoplay.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8734,6 +9230,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-autoplay.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8744,6 +9241,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-fullscreen.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8754,6 +9252,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-fullscreen.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8764,6 +9263,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-hash.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8774,6 +9274,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-hash.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8784,6 +9285,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-pager.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8794,6 +9296,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-pager.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8804,6 +9307,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-share.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8814,6 +9318,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-share.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8824,6 +9329,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-thumbnail.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8834,6 +9340,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-thumbnail.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8844,6 +9351,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-video.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8854,6 +9362,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-video.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8864,6 +9373,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-zoom.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8874,6 +9384,7 @@
 		"tS": 0
 		},
 	"/bower_components/lightgallery/modules/lg-zoom.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -8912,6 +9423,7 @@
 	"/bower_components/lightgallery/src/css/lg-fb-comment-box.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/css/lg-fb-comment-box.css.map",
 		"oF": 0
@@ -8929,6 +9441,7 @@
 	"/bower_components/lightgallery/src/css/lg-transitions.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/css/lg-transitions.css.map",
 		"oF": 0
@@ -8946,6 +9459,7 @@
 	"/bower_components/lightgallery/src/css/lightgallery.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/css/lightgallery.css.map",
 		"oF": 0
@@ -8953,6 +9467,7 @@
 	"/bower_components/lightgallery/src/fonts/lg.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/fonts/lg.eot",
 		"oF": 0
@@ -8970,6 +9485,7 @@
 	"/bower_components/lightgallery/src/fonts/lg.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/fonts/lg.ttf",
 		"oF": 0
@@ -8977,6 +9493,7 @@
 	"/bower_components/lightgallery/src/fonts/lg.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/fonts/lg.woff",
 		"oF": 0
@@ -9025,11 +9542,13 @@
 	"/bower_components/lightgallery/src/js/.jshintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/js/.jshintrc",
 		"oF": 0
 		},
 	"/bower_components/lightgallery/src/js/lightgallery.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9250,6 +9769,7 @@
 	"/bower_components/lightgallery/src/sass/prepros.cfg": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/src/sass/prepros.cfg",
 		"oF": 0
@@ -9257,6 +9777,7 @@
 	"/bower_components/lightgallery/test/.jshintrc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/test/.jshintrc",
 		"oF": 0
@@ -9264,11 +9785,13 @@
 	"/bower_components/lightgallery/test/lightgallery.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/lightgallery/test/lightgallery.html",
 		"oF": 0
 		},
 	"/bower_components/lightgallery/test/lightgallery_test.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9302,6 +9825,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/CHANGELOG.md",
 		"oF": 0,
@@ -9331,6 +9855,7 @@
 		"oS": 0
 		},
 	"/bower_components/motion-ui/dist/motion-ui.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9351,6 +9876,7 @@
 		"oS": 0
 		},
 	"/bower_components/motion-ui/dist/motion-ui.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9368,6 +9894,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/animations.md",
 		"oF": 0,
@@ -9386,6 +9913,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/classes.md",
 		"oF": 0,
@@ -9404,6 +9932,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/configuration.md",
 		"oF": 0,
@@ -9422,6 +9951,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/installation.md",
 		"oF": 0,
@@ -9440,6 +9970,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/javascript.md",
 		"oF": 0,
@@ -9458,6 +9989,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/readme.md",
 		"oF": 0,
@@ -9476,6 +10008,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/transitions.md",
 		"oF": 0,
@@ -9494,6 +10027,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/docs/wow.md",
 		"oF": 0,
@@ -9505,6 +10039,7 @@
 		"uCM": 0
 		},
 	"/bower_components/motion-ui/gulpfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9515,6 +10050,7 @@
 		"tS": 0
 		},
 	"/bower_components/motion-ui/lib/handlebars.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9527,6 +10063,7 @@
 	"/bower_components/motion-ui/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/LICENSE",
 		"oF": 0
@@ -9539,6 +10076,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/meteor-README.md",
 		"oF": 0,
@@ -9550,6 +10088,7 @@
 		"uCM": 0
 		},
 	"/bower_components/motion-ui/motion-ui.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9581,6 +10120,7 @@
 		"oS": 1
 		},
 	"/bower_components/motion-ui/package.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9606,6 +10146,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/README.md",
 		"oF": 0,
@@ -9931,6 +10472,7 @@
 	"/bower_components/motion-ui/yarn.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/motion-ui/yarn.lock",
 		"oF": 0
@@ -9954,6 +10496,7 @@
 	"/bower_components/svgxuse/license": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/svgxuse/license",
 		"oF": 0
@@ -9974,6 +10517,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/svgxuse/readme.md",
 		"oF": 0,
@@ -9985,6 +10529,7 @@
 		"uCM": 0
 		},
 	"/bower_components/svgxuse/svgxuse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -9995,6 +10540,7 @@
 		"tS": 0
 		},
 	"/bower_components/svgxuse/svgxuse.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10007,6 +10553,7 @@
 	"/bower_components/turbolinks5/.blade.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/.blade.yml",
 		"oF": 0
@@ -10022,6 +10569,7 @@
 	"/bower_components/turbolinks5/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/.gitignore",
 		"oF": 0
@@ -10029,6 +10577,7 @@
 	"/bower_components/turbolinks5/.ruby-version": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/.ruby-version",
 		"oF": 0
@@ -10036,6 +10585,7 @@
 	"/bower_components/turbolinks5/.travis.yml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/.travis.yml",
 		"oF": 0
@@ -10043,6 +10593,7 @@
 	"/bower_components/turbolinks5/bin/blade": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/bin/blade",
 		"oF": 0
@@ -10050,6 +10601,7 @@
 	"/bower_components/turbolinks5/bin/ci": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/bin/ci",
 		"oF": 0
@@ -10057,6 +10609,7 @@
 	"/bower_components/turbolinks5/bin/rackup": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/bin/rackup",
 		"oF": 0
@@ -10069,6 +10622,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/CHANGELOG.md",
 		"oF": 0,
@@ -10087,6 +10641,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/CONDUCT.md",
 		"oF": 0,
@@ -10100,11 +10655,13 @@
 	"/bower_components/turbolinks5/config.ru": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/config.ru",
 		"oF": 0
 		},
 	"/bower_components/turbolinks5/dist/turbolinks.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10117,6 +10674,7 @@
 	"/bower_components/turbolinks5/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/Gemfile",
 		"oF": 0
@@ -10124,6 +10682,7 @@
 	"/bower_components/turbolinks5/Gemfile.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/Gemfile.lock",
 		"oF": 0
@@ -10131,6 +10690,7 @@
 	"/bower_components/turbolinks5/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/LICENSE",
 		"oF": 0
@@ -10151,6 +10711,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/README.md",
 		"oF": 0,
@@ -10164,6 +10725,7 @@
 	"/bower_components/turbolinks5/src/turbolinks/BANNER.js.erb": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/src/turbolinks/BANNER.js.erb",
 		"oF": 0
@@ -10369,6 +10931,7 @@
 	"/bower_components/turbolinks5/src/turbolinks/VERSION": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/src/turbolinks/VERSION",
 		"oF": 0
@@ -10398,6 +10961,7 @@
 	"/bower_components/turbolinks5/test/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/.gitignore",
 		"oF": 0
@@ -10411,6 +10975,7 @@
 		"oS": 1
 		},
 	"/bower_components/turbolinks5/test/environment.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10423,6 +10988,7 @@
 	"/bower_components/turbolinks5/test/fixtures/additional_assets.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/additional_assets.html",
 		"oF": 0
@@ -10430,6 +10996,7 @@
 	"/bower_components/turbolinks5/test/fixtures/body_script.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/body_script.html",
 		"oF": 0
@@ -10437,6 +11004,7 @@
 	"/bower_components/turbolinks5/test/fixtures/eval_false_script.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/eval_false_script.html",
 		"oF": 0
@@ -10444,6 +11012,7 @@
 	"/bower_components/turbolinks5/test/fixtures/head_script.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/head_script.html",
 		"oF": 0
@@ -10451,6 +11020,7 @@
 	"/bower_components/turbolinks5/test/fixtures/navigation.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/navigation.html",
 		"oF": 0
@@ -10458,6 +11028,7 @@
 	"/bower_components/turbolinks5/test/fixtures/one.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/one.html",
 		"oF": 0
@@ -10465,6 +11036,7 @@
 	"/bower_components/turbolinks5/test/fixtures/permanent_element.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/permanent_element.html",
 		"oF": 0
@@ -10472,11 +11044,13 @@
 	"/bower_components/turbolinks5/test/fixtures/rendering.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/rendering.html",
 		"oF": 0
 		},
 	"/bower_components/turbolinks5/test/fixtures/test.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10489,6 +11063,7 @@
 	"/bower_components/turbolinks5/test/fixtures/tracked_asset_change.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/tracked_asset_change.html",
 		"oF": 0
@@ -10496,6 +11071,7 @@
 	"/bower_components/turbolinks5/test/fixtures/visit.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/visit.html",
 		"oF": 0
@@ -10503,6 +11079,7 @@
 	"/bower_components/turbolinks5/test/fixtures/visit_control_reload.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/fixtures/visit_control_reload.html",
 		"oF": 0
@@ -10632,6 +11209,7 @@
 	"/bower_components/turbolinks5/test/yarn.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/test/yarn.lock",
 		"oF": 0
@@ -10647,6 +11225,7 @@
 	"/bower_components/what-input/.editorconfig": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/.editorconfig",
 		"oF": 0
@@ -10654,11 +11233,13 @@
 	"/bower_components/what-input/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/.gitignore",
 		"oF": 0
 		},
 	"/bower_components/what-input/dist/what-input.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10669,6 +11250,7 @@
 		"tS": 0
 		},
 	"/bower_components/what-input/dist/what-input.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10679,6 +11261,7 @@
 		"tS": 0
 		},
 	"/bower_components/what-input/Gulpfile.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10691,6 +11274,7 @@
 	"/bower_components/what-input/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/LICENSE",
 		"oF": 0
@@ -10711,6 +11295,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/README.md",
 		"oF": 0,
@@ -10734,11 +11319,13 @@
 	"/bower_components/what-input/src/markup/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/src/markup/index.html",
 		"oF": 0
 		},
 	"/bower_components/what-input/src/scripts/what-input.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -10816,6 +11403,7 @@
 	"/bower_components/what-input/yarn.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
@@ -10828,6 +11416,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/commercials.md",
 		"oF": 0,
@@ -10846,6 +11435,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/contact.md",
 		"oF": 1,
@@ -10864,6 +11454,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/cv.md",
 		"oF": 0,
@@ -10882,6 +11473,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/films.md",
 		"oF": 0,
@@ -10895,6 +11487,7 @@
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/Gemfile",
 		"oF": 0
@@ -10902,6 +11495,7 @@
 	"/Gemfile.lock": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/Gemfile.lock",
 		"oF": 0
@@ -10909,6 +11503,7 @@
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/humans.txt",
 		"oF": 0
@@ -10921,6 +11516,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/index.md",
 		"oF": 0,
@@ -10939,6 +11535,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/music-videos.md",
 		"oF": 0,
@@ -10965,6 +11562,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/privacy.md",
 		"oF": 1,
@@ -10983,6 +11581,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/README.md",
 		"oF": 0,
@@ -10996,6 +11595,7 @@
 	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/robots.txt",
 		"oF": 0
@@ -11008,6 +11608,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/television.md",
 		"oF": 0,
@@ -11026,6 +11627,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/terms.md",
 		"oF": 1,
@@ -11171,6 +11773,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -11190,6 +11798,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -11240,6 +11878,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -11273,10 +11914,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -12225,6 +12872,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 1,
 			"optionString": ""
@@ -12887,6 +13538,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -12908,6 +13560,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -12930,7 +13583,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -12969,6 +13623,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -12978,7 +13633,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -12999,7 +13655,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -13028,7 +13685,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -13116,16 +13774,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -13137,14 +13799,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -13167,6 +13829,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -13192,10 +13858,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -13204,13 +13866,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -13222,6 +13884,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -13244,13 +13910,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -13259,10 +13925,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -13286,6 +13948,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -13320,6 +13986,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -13329,6 +13999,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -13356,15 +14030,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": "_site/"
 	},

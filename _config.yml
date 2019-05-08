@@ -52,6 +52,16 @@ defaults:
     layout: project
 - scope:
     path: ''
+    type: music-videos
+  values:
+    image: 
+    artist:
+    production-company: 
+    director:
+    video: 
+    layout: project
+- scope:
+    path: ''
     type: pages
   values:
     description: 
