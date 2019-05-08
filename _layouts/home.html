@@ -32,9 +32,11 @@ layout: default
   <div class="small-12 cell">
   {% assign in-production = site.in-production | sort: 'position' %}
   {% for project in in-production %}
+     {% if project.imdb %}<a href="{{ project.imdb }}">{% endif %}
      <div class="margin-bottom-2">
       <h4 class="secondary-font">{{ project.title }}</h4>
       <h5>Director — {{ project.director }}</h5>{% if project.with %}<h5>With — {{ project.with }}</h5>{% endif %}</div>
+     {% if project.imdb %}</a>{% endif %}
   {% endfor %}
   </div>
 </div>
