@@ -55,9 +55,9 @@ defaults:
     type: music-videos
   values:
     image: 
-    artist:
+    artist: 
     production-company: 
-    director:
+    director: 
     video: 
     layout: project
 - scope:

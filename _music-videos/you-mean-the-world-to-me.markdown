@@ -1,10 +1,15 @@
 ---
 title: You Mean The World To Me
 date: 2019-05-08 09:32:00 Z
-image: "/uploads/you-mean-the-world-to-me.jpg"
+categories:
+- music video
+tags:
+- freya ridings
+- lena headey
+image: "/uploads/freya-ridings-maisie-williams-music-video.jpg"
 artist: Freya Ridings
 production-company: 
-director: Lena Headey
-layout: project
-video: 334857531
+director: Lena Headey Test
+video: https://vimeo.com/334857531
 ---
+
