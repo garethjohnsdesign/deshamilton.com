@@ -17,6 +17,9 @@ collections:
   posts:
     title: Posts
     output: true
+  short-films:
+    title: Short Films
+    output: true
   television:
     title: Television
     output: true

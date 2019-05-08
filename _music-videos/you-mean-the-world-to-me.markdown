@@ -10,6 +10,7 @@ image: "/uploads/freya-ridings-music-video.jpg"
 artist: Freya Ridings
 production-company: 
 director: Lena Headey
-video: 334857531
+video: <iframe src="https://player.vimeo.com/video/334857531" width="640" height="564"
+  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ---
 
