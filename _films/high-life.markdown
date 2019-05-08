@@ -5,7 +5,7 @@ tags:
 - home
 image: "/uploads/high-life.jpg"
 director: Claire Denis
-with: Robert Pattinson, Patricia Arquette
+with: Robert Pattinson, Juliette Binoche, André Benjamin, Mia Goth
 imdb: https://www.imdb.com/title/tt4827558/
 video: 297719133
 layout: project
