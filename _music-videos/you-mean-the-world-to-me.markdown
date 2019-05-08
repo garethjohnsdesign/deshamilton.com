@@ -6,7 +6,7 @@ categories:
 tags:
 - freya ridings
 - lena headey
-image: "/uploads/freya-ridings-music-video.jpg"
+image: "/uploads/freya-ridings-maisie-williams-music-video.jpg"
 artist: Freya Ridings
 production-company: 
 director: Lena Headey
