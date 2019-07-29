@@ -1,6 +1,6 @@
 ---
 title: Jojo Rabbit
-position: 1
+position: 2
 director: Taika Waititi
 with: Roman Griffin Davis, Thomasin McKenzie, Sam Rockwell, Scarlett Johansson, Alfie
   Allen, Rebel Wilson, Stephen Merchant
