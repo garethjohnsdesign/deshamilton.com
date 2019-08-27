@@ -1,9 +1,12 @@
 ---
 title: JoJo Rabbit
-position: 2
+date: 2019-08-27 10:41:00 Z
+tags:
+- home
 director: Taika Waititi
 with: Roman Griffin Davis, Thomasin McKenzie, Sam Rockwell, Scarlett Johansson, Alfie
   Allen, Rebel Wilson, Stephen Merchant
 imdb: https://www.imdb.com/title/tt2584384/
+video: https://vimeo.com/350803512
 ---
 
