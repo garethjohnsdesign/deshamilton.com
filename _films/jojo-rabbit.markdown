@@ -1,6 +1,6 @@
 ---
 title: JoJo Rabbit
-date: 2019-08-27 10:41:00 Z
+date: 2020-01-20 10:41:00 Z
 tags:
 - home
 image: "/uploads/JoJo_Rabbit_image.jpg"
