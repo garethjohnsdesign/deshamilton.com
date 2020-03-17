@@ -3116,14 +3116,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/assets/css/app.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/css/app.css.map",
-		"oF": 0
-		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 2570,
@@ -3522,11 +3514,11 @@
 		},
 	"/assets/scss/app.scss": {
 		"aP": 1,
-		"bl": 1,
+		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "/assets/css/app.css",
 		"oF": 0,
