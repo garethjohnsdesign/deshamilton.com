@@ -4,4 +4,4 @@ Site for Des Hamilton Casting. Please go to [www.deshamilton.com](https://www.de
 
 * * *
 
-Copyright (c) 2018 Gareth Johns Design + Development – info@garethjohnsdesign.com
+Copyright (c) 2020 Gareth Johns Design + Development – info@garethjohnsdesign.com
