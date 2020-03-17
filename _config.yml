@@ -91,6 +91,7 @@ exclude:
 - ".gitignore"
 - bower_components
 - assets/scss
+- ".jekyll-cache"
 plugins:
 - jekyll-paginate-v2
 - jekyll-seo-tag
