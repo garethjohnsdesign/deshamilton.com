@@ -10,7 +10,8 @@ layout: compress
 <!-- End Head -->
 
 <body>
-  
+
+
 <!-- Off Canvas Navigation -->
 <div class="off-canvas position-right" id="offCanvasProjects" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
 {% include off-canvas/offcanvas-projects.html %}
@@ -25,7 +26,8 @@ layout: compress
 </div>
 <!-- End Off Canvas Navigation --> 
 
-<div class="wrapper grid-y off-canvas-content align-justify {{page.layout | slugify}}" data-off-canvas-content>
+
+<div class="wrapper grid-y off-canvas-content align-justify {{page.layout | slugify}} swup-transition-fade" data-off-canvas-content id="swup-body">
 <!-- Navigation -->
 {% include global/navigation.html %}
 <!-- End Navigation -->
@@ -37,6 +39,7 @@ layout: compress
 <!-- Footer -->
 {% include global/footer.html %}
 <!-- End Footer-->
+
 </div>
 
 </body>

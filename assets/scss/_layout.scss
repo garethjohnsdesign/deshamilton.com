@@ -30,6 +30,27 @@
   }
 }
 
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+ .content {
+    transition: $primary-transition;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
 // 2. Global
 // ---------
 
@@ -55,23 +76,6 @@ svg {
   letter-spacing: 0.05em;
 }
 
-// 3. Plugins
-// ----------
-
-.turbolinks-progress-bar {
-  height: 5px;
-  background-color: $black;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 0.025rem;
-}
-
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  letter-spacing: 0.025rem;
-}
-
-
 // 4. Color
 // --------
 
@@ -89,6 +93,15 @@ h1, h2, h3, h4, h5, h6 {
 
 // 5. Typography
 // -------------
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0.025rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: 0.025rem;
+}
+
 
 a {
   transition: color .35s cubic-bezier(.39, .575, .565, 1);
@@ -190,8 +203,6 @@ h1 a:hover {
 }
 
 
-
-
 .wrapper {
   min-height: 100vh;
   padding: 1rem;
@@ -223,4 +234,50 @@ h1 a:hover {
   @include breakpoint(large) {
   font-size: 1.25rem;
   }
+}
+
+
+.image--7-5 {
+  @include aspect-ratio (7, 5);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--16-9 {
+  @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+
+// 3. Animations
+// -------------
+
+.swup-transition-fade-up {
+  transition: 0.5s;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html.is-animating .swup-transition-fade-up {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.swup-transition-fade {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-fade {
+  opacity: 0;
+}
+
+.swup-transition-color {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-color {
+  opacity: 0;
 }
