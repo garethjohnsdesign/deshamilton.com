@@ -770,36 +770,196 @@
 		"oAP": "/_in-production/truly-naked.markdown",
 		"oF": 0
 		},
-	"/_includes/analytics.html": {
+	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_includes/analytics.html",
+		"oAP": "/_includes/blocks/excerpt.html",
 		"oF": 0
 		},
-	"/_includes/excerpt.html": {
+	"/_includes/global/analytics.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_includes/excerpt.html",
+		"oAP": "/_includes/global/analytics.html",
 		"oF": 0
 		},
-	"/_includes/footer.html": {
+	"/_includes/global/footer.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_includes/footer.html",
+		"oAP": "/_includes/global/footer.html",
 		"oF": 0
 		},
-	"/_includes/head.html": {
+	"/_includes/global/head.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_includes/head.html",
+		"oAP": "/_includes/global/head.html",
+		"oF": 0
+		},
+	"/_includes/global/navigation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/global/navigation.html",
+		"oF": 0
+		},
+	"/_includes/global/scripts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/global/scripts.html",
+		"oF": 0
+		},
+	"/_includes/images/contained/1-1/interchange-img-small-12-medium-12.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/images/contained/1-1/interchange-img-small-12-medium-12.html",
+		"oF": 0
+		},
+	"/_includes/images/contained/1-1/interchange-img-small-12-medium-4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/images/contained/1-1/interchange-img-small-12-medium-4.html",
+		"oF": 0
+		},
+	"/_includes/images/contained/1-1/interchange-img-small-12-medium-6.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/images/contained/1-1/interchange-img-small-12-medium-6.html",
+		"oF": 0
+		},
+	"/_includes/images/contained/16-9/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/16-9/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/16-9/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/16-9/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/16-9/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/16-9/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-4/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-4/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-4/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-4/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-4/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-4/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-7/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-7/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-7/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-7/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/5-7/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/5-7/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/6-4/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/6-4/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/6-4/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/6-4/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/6-4/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/6-4/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/7-5/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/7-5/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/7-5/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/7-5/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/contained/7-5/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/contained/7-5/interchange-img-small-12-medium-6.twig",
 		"oF": 0
 		},
 	"/_includes/images/excerpt.html": {
@@ -810,52 +970,180 @@
 		"oAP": "/_includes/images/excerpt.html",
 		"oF": 0
 		},
-	"/_includes/navigation.html": {
+	"/_includes/images/full/1-1/interchange-img-small-12-medium-12.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/navigation.html",
+		"oA": 2,
+		"oAP": "/_includes/images/full/1-1/interchange-img-small-12-medium-12.twig",
 		"oF": 0
 		},
-	"/_includes/offcanvas-about.html": {
+	"/_includes/images/full/1-1/interchange-img-small-12-medium-4.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/offcanvas-about.html",
+		"oA": 2,
+		"oAP": "/_includes/images/full/1-1/interchange-img-small-12-medium-4.twig",
 		"oF": 0
 		},
-	"/_includes/offcanvas-mobile.html": {
+	"/_includes/images/full/1-1/interchange-img-small-12-medium-6.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/offcanvas-mobile.html",
+		"oA": 2,
+		"oAP": "/_includes/images/full/1-1/interchange-img-small-12-medium-6.twig",
 		"oF": 0
 		},
-	"/_includes/offcanvas-projects.html": {
+	"/_includes/images/full/16-9/interchange-img-small-12-medium-12.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/offcanvas-projects.html",
+		"oA": 2,
+		"oAP": "/_includes/images/full/16-9/interchange-img-small-12-medium-12.twig",
 		"oF": 0
 		},
-	"/_includes/scripts.html": {
+	"/_includes/images/full/16-9/interchange-img-small-12-medium-4.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/_includes/scripts.html",
+		"oA": 2,
+		"oAP": "/_includes/images/full/16-9/interchange-img-small-12-medium-4.twig",
 		"oF": 0
 		},
-	"/_includes/subscribe.html": {
+	"/_includes/images/full/16-9/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/16-9/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-4/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-4/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-4/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-4/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-4/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-4/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-7/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-7/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-7/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-7/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/5-7/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/5-7/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/6-4/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/6-4/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/6-4/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/6-4/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/6-4/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/6-4/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/7-5/interchange-img-small-12-medium-12.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/7-5/interchange-img-small-12-medium-12.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/7-5/interchange-img-small-12-medium-4.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/7-5/interchange-img-small-12-medium-4.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/7-5/interchange-img-small-12-medium-6.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/full/7-5/interchange-img-small-12-medium-6.twig",
+		"oF": 0
+		},
+	"/_includes/images/full/full/interchange-img-small-12-medium-12.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_includes/subscribe.html",
+		"oAP": "/_includes/images/full/full/interchange-img-small-12-medium-12.html",
+		"oF": 0
+		},
+	"/_includes/off-canvas/offcanvas-about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/off-canvas/offcanvas-about.html",
+		"oF": 0
+		},
+	"/_includes/off-canvas/offcanvas-mobile.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/off-canvas/offcanvas-mobile.html",
+		"oF": 0
+		},
+	"/_includes/off-canvas/offcanvas-projects.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/off-canvas/offcanvas-projects.html",
 		"oF": 0
 		},
 	"/_layouts/about.html": {
