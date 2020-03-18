@@ -10,7 +10,6 @@ import SwupScrollPlugin from '@swup/scroll-plugin';
 import SwupGaPlugin from '@swup/ga-plugin';
 import SwupPreloadPlugin from '@swup/preload-plugin';
 
-
 // Foundation JS relies on a global variable. In ES6, all imports are hoisted
 // to the top of the file so if we used `import` to import Foundation,
 // it would execute earlier than we have assigned the global variable.
@@ -24,8 +23,6 @@ require('foundation-sites');
 // If you want to pick and choose which modules to include, comment out the above and uncomment
 // the line below
 import './lib/foundation-explicit-pieces';
-
-
 
 
 $( document ).ready( function() {
@@ -42,7 +39,7 @@ Foundation.Interchange.SPECIAL_QUERIES['xxlarge-retina'] = 'only screen and (min
 $(document).foundation();
 
 
-// 4. Viewport Height Fix
+// 3. Viewport Height Fix
 // ----------------------
 
 // First we get the viewport height and we multiple it by 1% to get a value for a vh unit
@@ -59,7 +56,7 @@ window.addEventListener('resize', () => {
 });
 
 
-// 5. Animate on Scroll
+// 4. Animate on Scroll
 // --------------------
 
 $(function() {
@@ -77,7 +74,7 @@ window.addEventListener('load', AOS.refresh);
 
 }
 
-// 2. Page Transitions
+// 5. Page Transitions
 // -------------------
 const options = {
   animationSelector: '[class*="swup-transition-"]',
@@ -97,7 +94,7 @@ const options = {
 
 const swup = new Swup( options );
 
-// 2. Run Once
+// 6. Run Once
 // -----------
 init();
 
