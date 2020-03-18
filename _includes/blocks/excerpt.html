@@ -3,10 +3,8 @@
 <div class="cell">
   <a href="{{ project.url }}">
     <div class="tertiary-background-color">
-      <div class="image--16-9" data-interchange="{{ image | imgix_url: w: 640, fit: "crop", ch: "Width", ch: "DPR", cs: "tinysrgb", fit: "crop", dpr: 1, auto: "format, compress"}}">
+      <div class="image--16-9" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
     
-
-<img src="{{ image | imgix_url: w: 640, fit: "crop", ch: "Width", ch: "DPR", cs: "tinysrgb", fit: "crop", dpr: 1, auto: "format, compress"}}" alt="Smiley face">
         <div class="grid-y content align-center">
           <div class="shrink cell padding-1 text-uppercase text-center">
             <h5 class="margin-bottom-0">{{ project.title }}</h5>

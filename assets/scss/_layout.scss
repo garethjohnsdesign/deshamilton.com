@@ -2,20 +2,10 @@
 //
 //   1. Mixins
 //   2. Global
-//   3. Plugins
+//   3. Animations
 //   4. Color
 //   5. Typography
-//   6. Navigation
-//   7. Off-canvas
-//   8. Layout
-//   9. Home
-//   10. Menu / Food
-//   11. Find Us
-//   12. Story
-//   13. Hire Us
-//   14. Contact
-//   15. Page
-//   16. Footer
+//   6. Layout
 
 
 // 1. Mixins
@@ -29,6 +19,7 @@
     }
   }
 }
+
 
 @mixin aspect-ratio($width, $height) {
   position: relative;
@@ -51,12 +42,33 @@
   }
 }
 
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie);
+}
+
 // 2. Global
 // ---------
 
+.viewheight {
+  min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
+}
+
+a {
+  transition: color .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+a:focus {
+  color: $white;
+}
+
 body {
   cursor: default;
-  font-kerning: normal;
+  font-kerning: normal ;
+  margin: 0;
+  transition: $primary-transition;
 }
 
 svg {
@@ -65,190 +77,12 @@ svg {
 
 ::selection {
   background: $primary-color;
-  color: $white;
+  color: $black;
 }
 
 :focus {
   outline: 0;
 }
-
-.letter-spacing--loose {
-  letter-spacing: 0.05em;
-}
-
-// 4. Color
-// --------
-
-.white {
-  color: $white;
-}
-
-.primary-color {
-  color: get-color(primary);
-}
-
-.secondary-color {
-  color: get-color(secondary);
-}
-
-// 5. Typography
-// -------------
-
-h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 0.025rem;
-}
-
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  letter-spacing: 0.025rem;
-}
-
-
-a {
-  transition: color .35s cubic-bezier(.39, .575, .565, 1);
-}
-
-.underline {
-  border-bottom: 1px solid $black;
-}
-
-.uppercase {
-  text-transform: uppercase;
-}
-
-i, cite, em, var, address, dfn {
-  font-style: normal;
-}
-
-p a {
-  border-bottom: 1px solid $black;
-}
-
-.primary-font {
-  font-family: $primary-font-family;
-}
-
-.secondary-font {
-  font-family: $secondary-font-family;
-}
-
-h1 {
-  font-family: $secondary-font-family;
-}
-
-h1 a {
-}
-
-h1 a:hover {
-  border-bottom: 2px solid $black;
-}
-
-
-// 6. Navigation
-// -------------
-
-.navigation {
-  .cell {
-	z-index: 14;
-  }
-}
-
-.navigation.is-active {
-  @include links ($white,$dark-gray)
-}
-
-.hamburger-inner {
-  &,
-  &::before,
-  &::after {
-    background-color: $white;
-  }
-}
-
-// 7. Off-canvas
-// -------------
-
-.off-canvas {
-  @include links ($white,$dark-gray)
-}
-
-
-.excerpt {
-  position:relative;
-  &:hover .excerpt__title {
-  opacity: 0;
-  transition: $primary-transition;
-  }
-  &:hover .excerpt__meta {
-  opacity: 1;
-  transition: $primary-transition;
-  } 
-}
-
-.excerpt__title {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  color: $white;
-  z-index: 1;
-  opacity: 1;
-}
-
-.excerpt__meta {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  color: $white;
-  z-index: 1;
-  opacity: 0;
-}
-
-
-.wrapper {
-  min-height: 100vh;
-  padding: 1rem;
-  @include breakpoint(medium) {
-    padding: 2rem;
-  }
-  @include breakpoint(large) {
-    padding: 3rem;
-  }
-}
-
-.about p {
-  font-size: 1rem;
-  line-height: 1.5;
-  @include breakpoint(medium) {
-  font-size: 1.25rem;
-  }
-  @include breakpoint(large) {
-  font-size: 1.25rem;
-  }
-}
-
-.contact p {
-  font-size: 1rem;
-  line-height: 1.4;
-  @include breakpoint(medium) {
-  font-size: 1.25rem;
-  }
-  @include breakpoint(large) {
-  font-size: 1.25rem;
-  }
-}
-
-
-.image--7-5 {
-  @include aspect-ratio (7, 5);
-  background-size: cover; 
-  background-position: 50%;
-}
-
-.image--16-9 {
-  @include aspect-ratio (16, 9);
-  background-size: cover; 
-  background-position: 50%;
-}
-
 
 // 3. Animations
 // -------------
@@ -280,4 +114,376 @@ html.is-animating .swup-transition-fade {
 
 html.is-animating .swup-transition-color {
   opacity: 0;
+}
+
+// 2. Loading
+// ----------
+
+.loader {
+    z-index: 10;
+    position: fixed;
+    background: $white;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; 
+    opacity: 0;
+    visibility: visible; 
+    transform: translateY(0%);
+    transition: transform 800ms;
+    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+    overflow: hidden;
+  &.loading {
+    opacity: 1;
+  }
+  &.loaded {
+    transform: translateY(-100%);
+    transition: transform 800ms;
+    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+  }
+}
+
+// 4. Color
+// --------
+
+.primary-color {
+  color: get-color(primary);
+}
+
+.secondary-color {
+  color: get-color(secondary);
+}
+
+.tertiary-color {
+  color: get-color(tertiary);
+}
+
+.primary-background-color {
+  background-color: get-color(primary);
+  color: $white;
+  @include links($white, $secondary-color)
+}
+
+
+.secondary-background-color {
+  background-color: get-color(secondary);
+  color: $primary-color;
+  @include links($primary-color, $secondary-color)
+}
+
+.light-gray-background-color {
+  background-color: $light-gray;
+  color: $black;
+  @include links($primary-color, $secondary-color)
+}
+
+.dark-gray-background-color {
+  background-color: $dark-gray;
+  color: $white;
+  @include links($primary-color, $secondary-color)
+}
+
+
+.black-background-color {
+  background-color: $black;
+  color: $white;
+  @include links($white, $secondary-color)
+}
+
+.tertiary-background-color {
+  background-color: get-color(tertiary);
+  color: $primary-color;
+  @include links($primary-color, $secondary-color)
+}
+
+.white {
+  color: $white;
+  @include links ($white, $medium-gray);
+}
+
+.medium-gray {
+  color: $medium-gray;
+  @include links ($medium-gray, $black);
+}
+
+.light-gray {
+  color: $light-gray;
+  @include links ($light-gray, $medium-gray);
+}
+
+.dark-gray {
+  color: $dark-gray;
+  @include links ($dark-gray, $white);
+}
+
+.black {
+  color: $black;
+  @include links ($black, $medium-gray);
+}
+
+// 5. Typography
+// -------------
+
+.underline {
+  padding-bottom: 2px;
+  border-bottom: 3px solid;
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+p a {
+  color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
+}
+
+h2 a {
+  color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
+}
+
+.link {
+  color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
+}
+
+.sans-light {
+  font-family: $sans-light;
+}
+
+.sans-regular {
+  font-family: $sans-regular;
+}
+
+.sans-bold {
+  font-family: $sans-bold;
+}
+
+.sans-display {
+  font-family: $sans-display;
+}
+
+.serif-light {
+  font-family: $serif-light;
+}
+
+.serif-regular {
+  font-family: $serif-regular;
+}
+
+.serif-italic {
+  font-family: $serif-italic;
+}
+
+.serif-bold {
+  font-family: $serif-bold;
+}
+
+.serif-display {
+  font-family: $serif-display;
+}
+
+.small {
+  font-size: $small-font-size;
+}
+
+// 6. Layout
+// ---------
+
+/*
+.wrapper {
+  @include padding(1, 1, 0, 1);
+}
+*/
+
+.image--1-1 {
+  @include aspect-ratio (1, 1);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+
+.image--5-4 {
+  @include aspect-ratio (5, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--6-4 {
+  @include aspect-ratio (6, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--3-4 {
+  @include aspect-ratio (3, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--5-7 {
+  @include aspect-ratio (5, 7);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--7-5 {
+  @include aspect-ratio (7, 5);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--16-9 {
+  @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--24-1 {
+  @include aspect-ratio (2.4, 1);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--hero {
+  background-size: cover; 
+  background-position: 50% 20%;
+  height: 70vh;
+ .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+
+// 6. Navigation
+// -------------
+
+.navigation {
+  width: 100%;
+  .cell {
+	z-index: 14; 
+  }
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $primary-color;
+  }
+}
+
+// 9. Home
+// -------
+
+.off-canvas .menu .active > a {
+  background: transparent;
+  color: $black;
+}
+
+.navigation {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.home__title {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.home__menu {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.viewheight {
+  min-height: calc(var(--vh, 1vh) * 100);
+}
+
+.swiper-button-prev-test,
+.swiper-button-next-test {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 0;
+}
+
+.swiper-button-prev-test {
+  left: 0rem;
+  right: auto;
+}
+.swiper-button-next-test {
+  right: 0rem;
+  left: auto;
+}
+
+.swiper-button-prev-test {
+cursor: w-resize;
+cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-left.png') 1x,
+url('/assets/img/arrow-left@2x.png') 2x,
+url('/assets/img/arrow-left@3x.png') 3x
+) 16 16, auto !important;
+}
+
+.swiper-button-next-test {
+cursor: e-resize;
+cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-right.png') 1x,
+url('/assets/img/arrow-right@2x.png') 2x,
+url('/assets/img/arrow-right@3x.png') 3x
+) 16 16, auto !important;
+}
+
+
+
+.excerpt {
+  .content {
+    @include opacity(0);
+  }
+  &:hover .content {
+    transition: $primary-transition;
+    background: $black;
+    background-blend-mode: multiply;
+    @include opacity(0.9);
+  }
+}
+
+.footer .menu li:last-child a {
+  padding-right: 0;
+}
+
+/*
+.logos {
+  transition: $primary-transition;
+  &:hover {
+    @include opacity(0.7);
+  }
+}
+
+.active {
+  color: $primary-color !important;
+}
+*/
+
+.wrapper {
+  min-height: 100vh;
+  padding: 1rem;
+  @include breakpoint(medium) {
+    padding: 2rem;
+  }
+  @include breakpoint(large) {
+    padding: 3rem;
+  }
 }

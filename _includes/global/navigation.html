@@ -1,24 +1,30 @@
 <!-- Mobile Navigation -->  
-<div class="shrink cell text-right show-for-small-only">
-  <a class="h5 text-uppercase" aria-label="menu" data-toggler=".is-active" data-toggle="offCanvasMobile navigation">Menu</a>
+<div class="grid-x grid-padding-x grid-padding-y navigation align-justify show-for-small-only" id="navigation" data-toggler=".is-active">
+  <div class="shrink cell">
+    <a href="/" class="text-uppercase site__title" id="site__title">{{site.title}}</a>
+  </div>
+  <div class="shrink cell text-right">
+    <a class="h5 text-uppercase" aria-label="menu" data-toggler=".is-active" data-toggle="offCanvasMobile navigation">Menu</a>
+  </div>
 </div>
 <!-- End Mobile Navigation -->  
 
 
 <!-- Desktop Navigation -->
-<div class="grid-x grid-padding-x grid-padding-y navigation" id="navigation" data-toggler=".is-active">
+<div class="grid-x grid-padding-x grid-padding-y navigation align-justify show-for-medium" id="navigation" data-toggler=".is-active">
   
   <div class="shrink cell">
-    <a href="/" class="h5 text-uppercase site__title" id="site__title">{{site.title}}</a>
+    <a href="/" class="text-uppercase site__title" id="site__title">{{site.title}}</a>
   </div>
   
   <div class="shrink cell">
-    <a class="h5 text-uppercase" aria-label="projects" data-toggler=".is-active" data-toggle="offCanvasProjects navigation">Projects</a>
-    <a class="h5 text-uppercase" aria-label="info" data-toggler=".is-active" data-toggle="offCanvasAbout navigation">Info</a>
+    <a class="text-uppercase" aria-label="projects" data-toggler=".is-active" data-toggle="offCanvasProjects navigation">Projects</a>
+    <a class="text-uppercase" aria-label="info" data-toggler=".is-active" data-toggle="offCanvasAbout navigation">Info</a>
   </div>
   
   <div class="shrink cell">
-    <a class="h5 text-uppercase" aria-label="info" data-toggler=".is-active" data-toggle="offCanvasAbout navigation">Instagram</a>
+    <a class="text-uppercase" aria-label="info" data-toggler=".is-active" data-toggle="offCanvasAbout navigation">Instagram</a>
+    <a class="text-uppercase" aria-label="info" data-toggler=".is-active" data-toggle="offCanvasAbout navigation">Twitter</a>
   </div>
   
 </div>

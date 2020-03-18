@@ -3383,6 +3383,17 @@
 		"oAP": "/assets/js/min/app-min.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 1
+		},
+	"/assets/js/lib/foundation-explicit-pieces.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/assets/js/lib/min/foundation-explicit-pieces-min.js",
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"/assets/js/min/app-min.js": {
@@ -3464,19 +3475,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/_layout.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/assets/scss/_loading.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/css/_loading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -4148,17 +4146,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/foundation-sites/dist/js/foundation.esm.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/foundation-sites/dist/js/min/foundation.esm-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/node_modules/jquery/dist/jquery.js": {
 		"bF": 0,
 		"ft": 64,
@@ -4170,17 +4157,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/js-cookie/src/js.cookie.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/js-cookie/src/min/js.cookie-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/node_modules/swup/lib/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -4188,6 +4164,17 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/node_modules/swup/lib/min/index-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/what-input/dist/what-input.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/what-input/dist/min/what-input-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
