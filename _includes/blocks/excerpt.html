@@ -2,17 +2,22 @@
 
 <div class="cell">
   <a href="{{ project.url }}">
-    <div class="tertiary-background-color">
-      <div class="image--16-9" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
+    <div class="light-gray-background-color">
+      <div class="image--16-9 excerpt" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
     
-        <div class="grid-y content align-center">
+        <div class="grid-y content align-center excerpt__title">
           <div class="shrink cell padding-1 text-uppercase text-center">
-            <h5 class="margin-bottom-0">{{ project.title }}</h5>
+            <h5 class="margin-bottom-0 white">{{ project.title }}</h5>
             {% if project.brand %}
-            <h5 class="margin-bottom-0">{{ project.brand }}</h5>
+            <h5 class="margin-bottom-0 white">{{ project.brand }}</h5>
             {% endif %}
+          </div>
+        </div>
+
+        <div class="grid-y content align-center excerpt__hover">
+          <div class="shrink cell padding-1 text-uppercase text-center">
             {% if project.director %}
-            <h5 class="margin-bottom-0">{{ project.director }}</h5>
+            <h5 class="margin-bottom-0 white">{{ project.director }}</h5>
             {% endif %}
           </div>
         </div>
