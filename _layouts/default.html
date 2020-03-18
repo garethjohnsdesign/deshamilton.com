@@ -9,39 +9,30 @@ layout: compress
 {% include global/head.html %}
 <!-- End Head -->
 
-<body>
-
-
-<!-- Off Canvas Navigation -->
-<div class="off-canvas position-right" id="offCanvasProjects" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
-{% include off-canvas/offcanvas-projects.html %}
-</div>
-
-<div class="off-canvas position-right" id="offCanvasAbout" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
-{% include off-canvas/offcanvas-about.html %}
-</div>
-
-<div class="off-canvas position-right" id="offCanvasMobile" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
-{% include off-canvas/offcanvas-mobile.html %}
-</div>
-<!-- End Off Canvas Navigation --> 
-
-
-<div class="wrapper grid-y off-canvas-content align-justify {{page.layout | slugify}} swup-transition-fade" data-off-canvas-content id="swup-body">
+<body class="{{page.layout | slugify}}">
+<!-- Wrapper -->
+<div class="wrapper grid-y align-justify">
 <!-- Navigation -->
 {% include global/navigation.html %}
 <!-- End Navigation -->
 
+<div class="swup-transition-fade" id="swup-body">
 <!-- Content -->
 {{content}}
 <!-- End Content -->
+</div>
 
 <!-- Footer -->
 {% include global/footer.html %}
 <!-- End Footer-->
-
 </div>
+<!-- End Wrapper -->
 
+<!-- Reveal -->
+{% include reveal/info.html %}
+{% include reveal/projects.html %}
+{% include reveal/mobile.html %}
+<!-- End Reveal -->
 </body>
 
 </html>

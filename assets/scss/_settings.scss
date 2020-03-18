@@ -68,10 +68,12 @@
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
-$light-gray: #e6e6e6;
+// $light-gray: #e6e6e6;
+$light-gray: #F5F5F5;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
-$black: #0a0a0a;
+// $black: #0a0a0a;
+$black: #121212;
 $white: #fefefe;
 /*
 $foundation-palette: (
@@ -94,7 +96,7 @@ $foundation-palette: (
 $body-background: $white;
 $body-font-color: $black;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-$body-font-family: $mono-regular;
+$body-font-family: $sans-regular;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -196,7 +198,7 @@ $header-styles: (
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
   'xlarge': (
-    'h1': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h1': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h2': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
@@ -794,7 +796,8 @@ $responsive-embed-ratios: (
 // 47. Reveal
 // ----------
 
-$reveal-background: $white;
+// $reveal-background: $white;
+$reveal-background: $black;
 $reveal-width: 600px;
 $reveal-max-width: $global-width;
 $reveal-padding: $global-padding;
@@ -925,9 +928,16 @@ $topbar-unstack-breakpoint: medium;
 $xy-grid: true;
 $grid-container: $global-width;
 $grid-columns: 12;
+/*
 $grid-margin-gutters: (
   small: 20px,
   medium: 30px
+);
+*/
+$grid-margin-gutters: (
+  small: 24px,
+  medium: 36px,
+  xlarge: 48px
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

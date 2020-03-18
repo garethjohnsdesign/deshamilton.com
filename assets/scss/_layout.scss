@@ -60,15 +60,15 @@ a {
   transition: color .35s cubic-bezier(.39, .575, .565, 1);
 }
 
+/*
 a:focus {
   color: $white;
 }
+*/
 
 body {
   cursor: default;
-  font-kerning: normal ;
-  margin: 0;
-  transition: $primary-transition;
+  font-kerning: normal;
 }
 
 svg {
@@ -233,20 +233,6 @@ i, cite, em, var, address, dfn {
   font-style: normal;
 }
 
-p a {
-  color: get-color(secondary);
-  &:hover {
-    color: get-color(primary);   
-  }
-}
-
-h2 a {
-  color: get-color(secondary);
-  &:hover {
-    color: get-color(primary);   
-  }
-}
-
 .link {
   color: get-color(secondary);
   &:hover {
@@ -288,6 +274,10 @@ h2 a {
 
 .serif-display {
   font-family: $serif-display;
+}
+
+.mono-regular, .mono-regular a  {
+  font-family: $mono-regular;
 }
 
 .small {
@@ -353,7 +343,7 @@ h2 a {
 .navigation {
   width: 100%;
   .cell {
-	z-index: 14; 
+	z-index: 1010; 
   }
 }
 
@@ -435,4 +425,49 @@ h2 a {
 .excerpt__hover {
   z-index: 1;
   opacity: 0;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+ font-family: $sans-regular;
+ letter-spacing: 0.025rem;
+}
+
+p a {
+  border-bottom: 1px solid $black;
+  &:hover {
+    border-bottom: 1px solid transparent;
+  }
+}
+
+h1 a {
+  border-bottom: 2px solid transparent;
+  &:hover {
+    border-bottom: 2px solid $black;
+  }
+}
+
+.about p {
+  font-size: 1rem;
+  line-height: 1.5;
+  @include breakpoint(medium) {
+  font-size: 1.25rem;
+  }
+  @include breakpoint(large) {
+  font-size: 1.25rem;
+  }
+}
+
+.contact p {
+  font-size: 1rem;
+  line-height: 1.4;
+  @include breakpoint(medium) {
+  font-size: 1.25rem;
+  }
+  @include breakpoint(large) {
+  font-size: 1.25rem;
+  }
+}
+
+.is-active {
+  @include links ($white, $medium-gray);
 }

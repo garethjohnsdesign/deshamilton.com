@@ -7,7 +7,7 @@ layout: default
   <div class="grid-x grid-padding-x">
      {% for detail in page.details %}
       <div class="small-12 medium-8 cell margin-bottom-1" data-aos="fade-in">
-        <div class="text-uppercase"><h5>{{detail.title}}<h5></div>
+        <div class="text-uppercase mono-regular">{{detail.title}}</div>
         {{detail.text | markdownify}}
       </div>
       {% endfor %}

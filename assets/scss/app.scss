@@ -1,44 +1,22 @@
 @charset 'utf-8';
 
-//  Table of Contents:
-//
-//   1. Fonts
-//   2. Colors
-//   3. Typography
-//   4. Scroll
-//   5. Transitions
-//   6. Hamburgers
-//   7. Foundation
-//   8. Layout
-
-
-// 1. Fonts
-// --------
-
+// Fonts
 @import 'fonts';
 
 
-// 2. Typography
-// -------------
-
+// Typography
 @import 'typography';
 
 
-// 3. Scroll
-// ---------
-
+// Scroll
 @import 'scroll/aos';
 
 
-// 4. Transitions
-// --------------
-
+// Transitions
 @import 'transitions';
 
 
-// 5. Foundation
-// -------------
-
+// Foundation
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
@@ -103,9 +81,7 @@
 @include motion-ui-animations;
 
 
-// 7. Layout
-// ---------
-
+// Layout
 @import 'icons';
 // @import 'lightgallery';
 @import 'layout';
