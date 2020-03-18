@@ -27,7 +27,7 @@ layout: default
   {% if prevurl %}
   <a href="{{prevurl}}">
     <div class="grid-y align-center" style="height: 100%;">
-      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></div>
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow_back"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_back"></use></svg></div>
     </div>
   </a>
   {% endif %}
@@ -38,7 +38,7 @@ layout: default
 <div class="small-12 medium-8 cell">
   <div class="grid-y align-center" style="height: 100%;">
     <div class="shrink cell text-center">
-      <h4 class="text-uppercase margin-bottom-1">{{ page.title }}{% if page.brand %} — {{ page.brand }}{% endif %}</h4>
+      <h1 class="h3 margin-bottom-2">{{ page.title }}{% if page.brand %} — {{ page.brand }}{% endif %}</h1>
 
 {% if page.video %}
 <div class="grid-x grid-padding-x align-center">
@@ -98,9 +98,9 @@ layout: default
 
 <!-- Mobile Pagination -->
 {% if nexturl %}
-<div class="grid-x grid-padding-x align-center hide-for-large">
+<div class="grid-x grid-padding-x grid-padding-y align-center hide-for-large">
   <div class="shrink cell text-center">
-    <a href="{{nexturl}}"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
+    <a href="{{nexturl}}"><svg class="icon icon-arrows icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></a>
   </div>
 </div>
 {% endif %}
@@ -118,7 +118,7 @@ layout: default
   {% if nexturl %}
   <a href="{{nexturl}}">
     <div class="grid-y align-center" style="height: 100%;">
-      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></div>
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></div>
     </div>
   </a>
   {% endif %}

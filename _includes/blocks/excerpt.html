@@ -1,0 +1,28 @@
+{% assign image = project.image %}
+
+<div class="cell">
+  <a href="{{ project.url }}">
+    <div class="light-gray-background-color">
+      <div class="image--16-9 excerpt" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}" data-aos="fade-in" data-aos-delay="100">
+    
+        <div class="grid-y content align-center excerpt__title">
+          <div class="shrink cell padding-1 text-uppercase text-center">
+            <h5 class="margin-bottom-0 white">{{ project.title }}</h5>
+            {% if project.brand %}
+            <h5 class="margin-bottom-0 white">{{ project.brand }}</h5>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="grid-y content align-center excerpt__hover">
+          <div class="shrink cell padding-1 text-uppercase text-center">
+            {% if project.director %}
+            <h5 class="margin-bottom-0 white">{{ project.director }}</h5>
+            {% endif %}
+          </div>
+        </div>
+    
+      </div>
+    </div>
+  </a>
+</div>

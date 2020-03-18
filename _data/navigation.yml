@@ -10,7 +10,7 @@ projects:
   - title: Music Videos
     url: /music-videos/
     
-about:
+info:
   - title: About
     url: /about/
   - title: CV
