@@ -12,7 +12,10 @@ details:
     from smaller scale productions with a great script - so please don’t hesitate
     to get in touch."
 - title: Location
-  text: 17D Clerkenwell Rd, Clerkenwell, London EC1M 5RD — [Map](https://goo.gl/maps/8yHmBGxQbfS2)
+  text: |-
+    1a Fournier Street,
+    London,
+    E1 6QE
 - title: Follow Us
   text: "[Instagram](https://www.instagram.com/deshamiltoncasting), [Twitter](https://twitter.com/DesHCasting),
     [Vimeo](https://vimeo.com/user87665132)"
