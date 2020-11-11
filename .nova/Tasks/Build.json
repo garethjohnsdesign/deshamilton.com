@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "JEKYLL_ENV=production bundle exec jekyll build --watch"
+    }
+  },
+  "identifier" : "F49C9ACA-26EA-4C90-9D91-1EA7D29E5B83"
+}
