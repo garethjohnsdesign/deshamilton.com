@@ -1,7 +1,7 @@
 ---
 title: Intrigo
 published: false
-position: 10
+position: 12
 director: Daniel Alfredson
 with: Gemma Chan, Carla Juri, Ben Kingsley
 imdb: https://www.imdb.com/title/tt6341086/
