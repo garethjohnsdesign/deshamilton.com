@@ -1,8 +1,6 @@
 ---
 title: Looted
 date: 2019-12-06 11:35:00 Z
-tags:
-- home
 image: "/uploads/Looted.jpg"
 director: Rene Pannevis
 with: Charley Palmer Rothwell, Thomas Turgoose, Tom Fisher, Morgane Polanski
