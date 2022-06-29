@@ -6,7 +6,7 @@ details:
 - title: Actor Enquiries
   text: "[office@deshamilton.com](mailto:office@deshamilton.com)"
 - title: To Enquire About A New Project
-  text: "Elan Jones \n\n[elan@deshamilton.com](mailto:elan@deshamilton.com)\n\nAs
+  text: "Georgia Topley and Jo Harris \n\n[georgia@deshamilton.com](mailto:georgia@deshamilton.com)\n[jo@deshamilton.com](mailto:jo@deshamilton.com)\n\nAs
     a company, we have always been script-led, and we therefore don’t rule out potential
     projects based on budget, genre, previous credits etc. We are always keen to hear
     from smaller scale productions with a great script - so please don’t hesitate
