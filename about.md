@@ -1,6 +1,5 @@
 ---
 title: About
-published: false
 position: 5
 layout: about
 ---
