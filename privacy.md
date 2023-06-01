@@ -6,7 +6,7 @@ layout: page
 
 ## Privacy Policy
 
-Your privacy is important to us.
+Your privacy is important to us. Test
 
 It is Des Hamilton Casting's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
