@@ -6,8 +6,8 @@ tags:
 image: "/uploads/16-9.jpeg"
 director: Julian Jarrold, Michael Winterbottom
 with: Kenneth Branagh, Ophelia Lovibond, Andrew Buchan
-imdb: https://www.imdb.com/title/tt12594678/
 video: 832278256
 layout: project
 ---
 
+[IMDb](https://www.imdb.com/title/tt12594678/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_this%2520england)
