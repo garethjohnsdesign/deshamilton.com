@@ -1,6 +1,6 @@
 ---
 title: Sweetpea
 date: 2023-05-30 15:51:00 Z
-Director: Ella Jones
+director: Ella Jones
 ---
 
