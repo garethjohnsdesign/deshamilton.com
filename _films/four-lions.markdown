@@ -6,9 +6,9 @@ tags:
 image: "/uploads/four-lions.jpg"
 director: Chris Morris
 with: Will Adamsdale, Riz Ahmed, Adeel Akhtar
-imdb: https://www.imdb.com/title/tt1341167/
 video: 281611967
 is-in-production: 
 layout: project
 ---
 
+[IMDb](https://www.imdb.com/title/tt1341167/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_four%2520lions)
