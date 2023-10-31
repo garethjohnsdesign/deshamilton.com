@@ -6,7 +6,7 @@ tags:
 image: "/uploads/the-king-photo.png"
 director: David Michôd
 with: " Timothée Chalamet, Joel Edgerton, Lily-Rose Depp, Robert Pattinson, Sean Harris"
-imdb: https://www.imdb.com/title/tt7984766/
 video: 357385827
 ---
 
+[IMDb](https://www.imdb.com/title/tt7984766/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520king)
