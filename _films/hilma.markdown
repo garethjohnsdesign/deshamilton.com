@@ -6,7 +6,7 @@ tags:
 image: "/uploads/0-177.jpeg.webp"
 director: Lasse Hallström
 with: Tom Wlaschiha, Lena Olin, Lily Cole
-imdb: www.imdb.com/title/tt14620236/
 video: 832299888
 ---
 
+[IMDb](https://www.imdb.com/title/tt14620236/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_hilma)

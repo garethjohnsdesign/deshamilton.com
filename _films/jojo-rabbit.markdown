@@ -7,7 +7,7 @@ image: "/uploads/jo-jo-rabbit-rev.jpg"
 director: Taika Waititi
 with: Roman Griffin Davis, Thomasin McKenzie, Sam Rockwell, Scarlett Johansson, Alfie
   Allen, Rebel Wilson, Stephen Merchant
-imdb: https://www.imdb.com/title/tt2584384/
 video: 356160187
 ---
 
+[IMDb](https://www.imdb.com/title/tt5836706/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_head%2520full%2520of%2520honey)
