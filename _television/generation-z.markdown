@@ -5,5 +5,6 @@ image: "/uploads/genz.jpeg"
 director: Ben Wheatley
 with: Sue Johnston, Robert Lindsay, Anita Dobson
 is-in-production: true
+layout: project
 ---
 
