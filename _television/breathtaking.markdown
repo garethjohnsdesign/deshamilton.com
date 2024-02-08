@@ -1,7 +1,7 @@
 ---
 title: Breathtaking
 date: 2024-02-19 15:45:00 Z
-categories:
+tags:
 - home
 image: "/uploads/breathtaking.jpeg"
 director: Craig Viveiros
