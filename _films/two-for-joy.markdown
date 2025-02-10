@@ -11,4 +11,3 @@ is-in-production:
 layout: project
 ---
 
-[IMDb](https://www.imdb.com/title/tt6493292/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_two%2520for%2520joy)
