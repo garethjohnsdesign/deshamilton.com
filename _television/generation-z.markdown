@@ -1,6 +1,6 @@
 ---
 title: Generation Z
-date: 2024-04-01 15:26:00 Z
+date: 2025-03-28 21:26:00 Z
 position: 12
 image: "/uploads/gen-z.jpg"
 director: Ben Wheatley
