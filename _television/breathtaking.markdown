@@ -1,8 +1,6 @@
 ---
 title: Breathtaking
 date: 2025-03-28 17:24:00 Z
-tags:
-- home
 position: 10
 image: "/uploads/breathtaking.jpeg"
 director: Craig Viveiros
