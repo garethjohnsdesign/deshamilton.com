@@ -2,7 +2,7 @@
 title: Rebus
 date: 2023-10-31 16:23:00 Z
 position: 11
-image: "/uploads/rebus.jpg"
+image: "/uploads/Rebus-1e1771.jpg"
 director: Niall MacCormick & Fiona Walton
 with: Richard Rankin, Amy Manson & Michelle Duncan
 is-in-production: true
