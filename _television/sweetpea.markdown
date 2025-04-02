@@ -1,7 +1,7 @@
 ---
 title: Sweetpea
 date: 2025-04-02 17:07:00 Z
-image: "/uploads/Sweetpea.jpg"
+image: "/uploads/gen-z.jpg"
 director: Ella Jones
 with: Ella Purnell, Calam Lynch
 video: 1071911226
