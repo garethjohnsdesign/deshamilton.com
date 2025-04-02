@@ -1,6 +1,8 @@
 ---
 title: Time Bandits
 date: 2025-03-30 19:58:00 Z
+tags:
+- home
 position: 14
 image: "/uploads/Time%20Bandits.jpg"
 director: Taika Waititi, Jeff Tomsic
