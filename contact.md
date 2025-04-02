@@ -6,7 +6,8 @@ details:
 - title: Actor Enquiries
   text: "[office@deshamilton.com](mailto:office@deshamilton.com)"
 - title: To Enquire About A New Project
-  text: |-
+  text: |2-
+
     Jo Harris
 
     [jo@deshamilton.com](mailto:jo@deshamilton.com)
