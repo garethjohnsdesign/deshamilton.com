@@ -115,7 +115,7 @@ future: true
 social:
   twitter: https://twitter.com/DesHCasting
   instagram: https://www.instagram.com/deshamiltoncasting
-  imdb: https://www.imdb.com/name/nm1060389/
+  IMDb: https://www.imdb.com/name/nm1060389/
 compress_html:
   comments:
   - "<!-- "
