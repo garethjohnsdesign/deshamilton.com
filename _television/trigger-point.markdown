@@ -1,6 +1,6 @@
 ---
 title: Trigger Point
-date: 2022-09-29 16:39:00 Z
+date: 2025-03-27 16:39:00 Z
 position: 9
 image: "/uploads/vicky-mcclure-adrian-lester-trigger-point-1623926840.jpeg"
 director: Gilles Bannier, Jennie Darnell
