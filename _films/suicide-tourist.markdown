@@ -1,8 +1,6 @@
 ---
 title: Exit Plan
 date: 2019-12-06 10:50:00 Z
-tags:
-- home
 image: "/uploads/Suicide_Tourist.jpg"
 director: Jonas Alexander Arnby
 with: Nikolaj Coster-Waldau, Tuva Novotny, Jan Bijvoet, Kate Ashfield, Rob Aramayo
