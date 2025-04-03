@@ -1,7 +1,7 @@
 ---
 title: Top Boy 3
 date: 2020-01-16 11:41:00 Z
-position: 9
+position: 10
 image: "/uploads/top_boy_3_netflix.jpg"
 director: Reinaldo Marcus Green, Nia DaCosta, Brady Hood, Aneil Karia
 with: Ashley Walters, Kano, Claire Hope-Ashitey, Little Simz, Dave, Michael Ward
