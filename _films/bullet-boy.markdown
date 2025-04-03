@@ -4,7 +4,6 @@ date: 2005-04-08 00:00:00 Z
 image: "/uploads/bullet-boy.jpg"
 director: Saul Dibb
 with: Ashley Walters, Luke Fraser, Leon Black
-video: 281611410
 is-in-production: 
 layout: project
 ---
