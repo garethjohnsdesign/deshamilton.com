@@ -4,6 +4,7 @@ date: 2008-04-18 00:00:00 Z
 image: "/uploads/flashbacks-of-a-fool-04.jpg"
 director: Baillie Walsh
 with: Daniel Craig, Harry Eden, Eve
+video: 1072234868
 is-in-production: 
 layout: project
 ---
