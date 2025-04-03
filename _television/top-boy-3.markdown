@@ -1,5 +1,5 @@
 ---
-title: Top Boy 3
+title: Top Boy
 date: 2020-01-16 11:41:00 Z
 position: 10
 image: "/uploads/top_boy_3_netflix.jpg"
