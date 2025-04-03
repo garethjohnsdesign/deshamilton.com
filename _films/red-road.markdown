@@ -4,7 +4,6 @@ date: 2006-11-27 00:00:00 Z
 image: "/uploads/red-road-03.jpg"
 director: Andrea Arnold
 with: Kate Dickie, Tony Curran, Martin Compston
-video: 281648107
 is-in-production: 
 layout: project
 ---
