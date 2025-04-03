@@ -4,7 +4,7 @@ date: 2011-03-25 00:00:00 Z
 image: "/uploads/the-eagle-02.jpg"
 director: Kevin Macdonald
 with: Channing Tatum, Jamie Bell, Donald Sutherland
-video: 281648299
+video: 1072229044
 is-in-production: 
 layout: project
 ---
