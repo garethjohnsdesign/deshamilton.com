@@ -4,7 +4,6 @@ date: 2003-12-05 00:00:00 Z
 image: "/uploads/wilbur-wants-to-kill-himself-01.jpg"
 director: Lone Scherfig
 with: Jamie Sives, Adrian Rawlins, Shirley Henderson
-video: 281648852
 is-in-production: 
 layout: project
 ---
