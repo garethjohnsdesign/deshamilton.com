@@ -5,7 +5,6 @@ position: 8
 image: "/uploads/privado.jpg"
 director: Jim Hosking
 with: Neil Maskell, Rich Hardesty, Rasmus Hardiker
-video: 281648083
 is-in-production: 
 layout: project
 ---
