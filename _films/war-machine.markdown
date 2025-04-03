@@ -4,7 +4,7 @@ date: 2017-05-26 00:00:00 Z
 image: "/uploads/war-machine-01.jpg"
 director: David Michôd
 with: Brad Pitt, Daniel Betts, John Magaro
-video: 281648704
+video: 1072139209
 is-in-production: 
 layout: project
 ---
