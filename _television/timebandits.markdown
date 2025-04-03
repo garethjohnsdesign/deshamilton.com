@@ -3,7 +3,7 @@ title: Time Bandits
 date: 2025-03-30 19:58:00 Z
 position: 2
 image: "/uploads/Time%20Bandits.jpg"
-director: Taika Waititi, Jeff Tomsic
+director: Taika Waititi
 video: 1071930414
 is-in-production: true
 with: Lisa Kudrow, Kal-El Tuck, Tadhg Murphy
