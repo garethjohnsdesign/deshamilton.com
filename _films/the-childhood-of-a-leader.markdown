@@ -4,7 +4,7 @@ date: 2016-08-19 00:00:00 Z
 image: "/uploads/the-childhood-of-a-leader-01.jpg"
 director: Brady Corbet
 with: Bérénice Bejo, Liam Cunningham, Stacy Martin
-video: 281648208
+video: 1072140652
 is-in-production: 
 layout: project
 ---
