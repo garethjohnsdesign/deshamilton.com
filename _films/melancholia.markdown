@@ -1,6 +1,8 @@
 ---
 title: Melancholia
 date: 2011-09-30 00:00:00 Z
+tags:
+- home
 image: "/uploads/melancholia-02.jpg"
 director: Lars von Trier
 with: Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland
