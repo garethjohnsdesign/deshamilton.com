@@ -4,6 +4,7 @@ date: 2007-08-31 00:00:00 Z
 image: "/uploads/hallam-foe.jpg"
 director: David Mackenzie
 with: Jamie Bell, Sophia Myles, Ciarán Hinds
+video: 1072235881
 is-in-production: 
 layout: project
 ---
