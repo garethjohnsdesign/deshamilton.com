@@ -16,8 +16,7 @@ details:
 - title: 
   text: 
 - title: Follow Us
-  text: "[Instagram](https://www.instagram.com/deshamiltoncasting), [Twitter](https://twitter.com/DesHCasting),
-    [Vimeo](https://vimeo.com/user87665132)"
+  text: "[Instagram](https://www.instagram.com/deshamiltoncasting), [Twitter](https://twitter.com/DesHCasting)"
 - title: Full time positions, freelancers and internships
   text: |-
     There are currently no permanent full-time positions available, but we do occasionally use freelancers and sometimes run paid internships.
