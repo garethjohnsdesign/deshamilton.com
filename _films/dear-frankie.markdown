@@ -4,7 +4,6 @@ date: 2005-01-14 00:00:00 Z
 image: "/uploads/dear-frankie-02.jpg"
 director: Shona Auerbach
 with: Emily Mortimer, Jack McElhone, Gerard Butler
-video: 281611689
 is-in-production: 
 layout: project
 ---
