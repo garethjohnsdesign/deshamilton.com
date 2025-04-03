@@ -1,7 +1,7 @@
 ---
 title: The Book Group
 date: 2002-04-12 00:00:00 Z
-position: 2
+position: 4
 image: "/uploads/the-book-group.jpg"
 director: Rachel Tunnard
 with: Anne Dudek, Bonnie Engstrom, Michelle Gomez
