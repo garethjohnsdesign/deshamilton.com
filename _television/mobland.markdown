@@ -7,6 +7,7 @@ video: 1071933849
 is-in-production: true
 with: Pierce Brosnan, Helen Mirren, Tom Hardy, Joanne Froggatt, Lara Pulver, Paddy
   Considine, Anson Boon
+image: "/uploads/im-90780500.avif"
 layout: project
 ---
 
