@@ -2,7 +2,7 @@
 title: Mobland
 date: 2025-04-02 20:09:00 Z
 position: 0
-image: "/uploads/mobland_101_sm_1205_0103_rt2-1.jpg"
+image: "/uploads/Mobland.png"
 director: Guy Ritchie
 video: 1071933849
 is-in-production: true
