@@ -8,6 +8,7 @@ video: 1071933849
 is-in-production: true
 with: Pierce Brosnan, Helen Mirren, Tom Hardy, Joanne Froggatt, Lara Pulver, Paddy
   Considine, Anson Boon
+featured_image: "/uploads/mobland-e6e349.jpg"
 layout: project
 ---
 
