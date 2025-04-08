@@ -1,0 +1,37 @@
+projects:
+  - title: Films
+    url: /films/
+  - title: Commercials
+    url: /commercials/  
+  - title: Television
+    url: /television/ 
+  - title: Short Films
+    url: /short-films/
+  - title: Music Videos
+    url: /music-videos/
+    
+info:
+  - title: About
+    url: /about/
+  - title: CV
+    url: /cv/   
+  - title: Contact
+    url: /contact/ 
+    
+mobile:
+  - title: Films
+    url: /films/
+  - title: Commercials
+    url: /commercials/  
+  - title: Television
+    url: /television/ 
+  - title: Short Films
+    url: /short-films/
+  - title: Music Videos
+    url: /music-videos/
+  - title: About
+    url: /about/
+  - title: CV
+    url: /cv/   
+  - title: Contact
+    url: /contact/ 

@@ -1,0 +1,129 @@
+---
+title: Des Hamilton Casting
+timezone: UTC
+collections:
+  commercials:
+    title: Commercials
+    output: true
+  films:
+    title: Films
+    output: true
+  in-production:
+    title: In Production
+    output: false
+  music-videos:
+    title: Music Videos
+    output: true
+  posts:
+    title: Posts
+    output: true
+  short-films:
+    title: Short Films
+    output: true
+  television:
+    title: Television
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: films
+  values:
+    image: 
+    director: 
+    with: 
+    imdb: 
+    video: 
+    layout: project
+- scope:
+    path: ''
+    type: short-films
+  values:
+    image: 
+    director: 
+    with: 
+    imdb: 
+    video: 
+    layout: project
+- scope:
+    path: ''
+    type: commercials
+  values:
+    image: 
+    brand: 
+    agency: 
+    production-company: 
+    director: 
+    with: 
+    imdb: 
+    video: 
+    layout: project
+- scope:
+    path: ''
+    type: music-videos
+  values:
+    image: 
+    artist: 
+    production-company: 
+    director: 
+    video: 
+    layout: project
+- scope:
+    path: ''
+    type: pages
+  values:
+    description: 
+url: https://www.deshamilton.com
+description: London and Glasgow based casting company working across film, television,
+  commercials and music videos
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+- ".jekyll-cache"
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: https://www.garethjohnsdesign.com
+company: Des Hamilton Casting
+email: castingteam@deshamilton.com
+analytics: UA-128513107-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%Y"
+future: true
+social:
+  twitter: https://twitter.com/DesHCasting
+  instagram: https://www.instagram.com/deshamiltoncasting
+  IMDb: https://www.imdb.com/name/nm1060389/
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: true
+  per_page: 100
+imgix:
+  source: des-hamilton-casting.imgix.net
