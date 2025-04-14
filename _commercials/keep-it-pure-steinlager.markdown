@@ -6,10 +6,8 @@ brand: Steinlager
 agency: Publicis
 production-company: Radical Media
 director: Christopher Riggert
-with: 
-imdb: 
-video: 281647225
-layout: project
+video: " "
 is-in-production: 
+layout: project
 ---
 
