@@ -6,10 +6,8 @@ brand: EA
 agency: Wieden + Kennedy
 production-company: Park Pictures
 director: Gary Freedman
-with: 
-imdb: 
-video: 281647622
-layout: project
+video: 1075286581
 is-in-production: 
+layout: project
 ---
 
