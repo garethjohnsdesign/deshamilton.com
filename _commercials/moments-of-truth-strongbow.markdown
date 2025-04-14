@@ -6,10 +6,8 @@ brand: Strongbow
 agency: St Lukes
 production-company: Rogue
 director: Sam Brown
-with: 
-imdb: 
-video: 281647868
-layout: project
+video: 1075285472
 is-in-production: 
+layout: project
 ---
 

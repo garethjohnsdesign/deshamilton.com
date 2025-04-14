@@ -6,10 +6,8 @@ brand: Mercedes
 agency: AMV BBDO
 production-company: Stink
 director: Yann Demange
-with: 
-imdb: 
-video: 281648955
-layout: project
+video: 1075286275
 is-in-production: 
+layout: project
 ---
 

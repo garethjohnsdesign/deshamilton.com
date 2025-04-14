@@ -6,10 +6,8 @@ brand: Barclays
 agency: BBH
 production-company: Blink
 director: Benito Montorio
-with: 
-imdb: 
-video: 281648922
-layout: project
+video: 1075285081
 is-in-production: 
+layout: project
 ---
 

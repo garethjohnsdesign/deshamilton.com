@@ -6,10 +6,8 @@ brand: Samsung
 agency: CHI & Partners
 production-company: Stink
 director: Adam Berg
-with: 
-imdb: 
-video: 281647675
-layout: project
+video: 1075285790
 is-in-production: 
+layout: project
 ---
 
