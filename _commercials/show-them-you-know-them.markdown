@@ -6,10 +6,8 @@ brand: Boots
 agency: Ogilvy London
 production-company: Pulse Films
 director: Benito Montorio
-with: 
-imdb: 
-video: 281648149
-layout: project
+video: 1075278587
 is-in-production: 
+layout: project
 ---
 

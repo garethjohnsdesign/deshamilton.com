@@ -6,10 +6,8 @@ brand: EA
 agency: adam&eveDDB
 production-company: Smuggler
 director: Adam Berg
-with: 
-imdb: 
-video: 281647909
-layout: project
+video: 1075277344
 is-in-production: 
+layout: project
 ---
 

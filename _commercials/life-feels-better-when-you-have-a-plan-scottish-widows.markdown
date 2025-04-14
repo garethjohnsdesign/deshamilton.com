@@ -6,10 +6,7 @@ brand: Scottish Widows
 agency: 101
 production-company: Wanda Productions
 director: Leila & Damien de Blinkk
-with: 
-imdb: 
-video: 281647963
-layout: project
 is-in-production: 
+layout: project
 ---
 
