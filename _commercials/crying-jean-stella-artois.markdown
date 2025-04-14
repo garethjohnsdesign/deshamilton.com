@@ -7,9 +7,7 @@ agency: Mother
 production-company: Rattling Stick
 director: Ringan Ledwidge
 with: Adrian Brody
-imdb: 
-video: 281611559
-layout: project
 is-in-production: 
+layout: project
 ---
 

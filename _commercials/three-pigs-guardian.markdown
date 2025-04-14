@@ -6,10 +6,8 @@ brand: Guardian
 agency: BBH
 production-company: Rattling Stick
 director: Ringan Ledwidge
-with: 
-imdb: 
-video: 281648544
-layout: project
+video: 1075288143
 is-in-production: 
+layout: project
 ---
 

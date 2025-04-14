@@ -6,10 +6,8 @@ brand: John Lewis
 agency: Manning Gottlieb OMD
 production-company: Blink
 director: Dougal Wilson
-with: 
-imdb: 
-video: 281648355
-layout: project
+video: 1075288859
 is-in-production: 
+layout: project
 ---
 
