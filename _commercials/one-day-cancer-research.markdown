@@ -6,10 +6,7 @@ brand: Cancer Research
 agency: AMV BBDO
 production-company: Stink
 director: Yann Demange
-with: 
-imdb: 
-video: 281647963
-layout: project
 is-in-production: 
+layout: project
 ---
 
