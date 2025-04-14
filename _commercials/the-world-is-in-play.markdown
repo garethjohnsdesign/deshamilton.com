@@ -6,10 +6,8 @@ brand: Sony
 agency: 180 Amsterdam
 production-company: Independent Films
 director: Cary Fukunaga
-with: 
-imdb: 
-video: 281648476
-layout: project
+video: 1075288529
 is-in-production: 
+layout: project
 ---
 
