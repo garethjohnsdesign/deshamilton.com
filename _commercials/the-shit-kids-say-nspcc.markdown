@@ -6,10 +6,7 @@ brand: NSPCC
 agency: Inferno
 production-company: Academy Films
 director: Amanda Boyle
-with: 
-imdb: 
-video: 281648388
-layout: project
 is-in-production: 
+layout: project
 ---
 
