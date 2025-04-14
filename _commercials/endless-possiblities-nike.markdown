@@ -7,9 +7,8 @@ agency: W+K London
 production-company: Smuggler
 director: Adam Berg
 with: Jessie J, Shakira
-imdb: 
-video: 281611738
-layout: project
+video: 1075284713
 is-in-production: 
+layout: project
 ---
 
